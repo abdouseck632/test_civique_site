@@ -31,3 +31,4 @@ Le site propose 40 questions et considère 32/40 comme seuil de réussite, confo
 
 `update_questions.py` peut récupérer les séries d'entraînement disponibles sur simulateur-examen-civique.fr. Ces questions/réponses sont pédagogiques et indépendantes de l'administration. Vérifier les conditions et attributions de la source avant toute redistribution publique.
 # testcivique
+# testcivique

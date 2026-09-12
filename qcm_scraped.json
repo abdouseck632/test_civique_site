@@ -1,0 +1,3602 @@
+[
+  {
+    "question": "À quoi correspond la date du 14 juillet ?",
+    "choices": [
+      "A. À la signature de la Déclaration des droits de l'homme et du citoyen",
+      "B. À la prise de la Bastille en 1789",
+      "C. À la proclamation de la Ve République",
+      "D. À l'armistice de la Première Guerre mondiale"
+    ],
+    "correct": 1,
+    "explanation": "À la prise de la Bastille en 1789. Le 14 juillet 1789, le peuple de Paris a pris la Bastille, prison symbole de l'arbitraire royal. Cet événement marque le début de la Révolution française.",
+    "source_series": 1
+  },
+  {
+    "question": "Quel est l’un des symboles de la République française ?",
+    "choices": [
+      "A. La fleur de lys",
+      "B. L'aigle impérial",
+      "C. La Marseillaise",
+      "D. La croix de Lorraine"
+    ],
+    "correct": 2,
+    "explanation": "La Marseillaise. Composée par Rouget de Lisle en 1792, La Marseillaise est l'hymne national, cité à l'article 2 de la Constitution avec les autres symboles.",
+    "source_series": 1
+  },
+  {
+    "question": "Le principe d’égalité signifie que :",
+    "choices": [
+      "A. Tous les citoyens ont les mêmes revenus",
+      "B. Tous les citoyens sont égaux devant la loi, sans distinction d'origine, de race ou de religion",
+      "C. Tous les citoyens ont le même métier",
+      "D. Tous les citoyens doivent voter de la même manière"
+    ],
+    "correct": 1,
+    "explanation": "Tous les citoyens sont égaux devant la loi, sans distinction d'origine, de race ou de religion. Inscrit à l'article 1er de la Constitution, ce principe interdit les discriminations. Il concerne les droits et la justice, pas les revenus ni les métiers.",
+    "source_series": 1
+  },
+  {
+    "question": "\"Liberté, égalité, fraternité\", c’est :",
+    "choices": [
+      "A. Le titre de l'hymne national",
+      "B. Une phrase de la Déclaration d'indépendance américaine",
+      "C. Le nom d'un parti politique français",
+      "D. La devise de la République française"
+    ],
+    "correct": 3,
+    "explanation": "La devise de la République française. Adoptée définitivement sous la IIIe République, la devise est inscrite à l'article 2 de la Constitution de 1958.",
+    "source_series": 1
+  },
+  {
+    "question": "A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ?",
+    "choices": [
+      "A. Oui, sauf si la personne porte plainte",
+      "B. Oui, au nom de la liberté d'expression",
+      "C. Oui, si c'est dit sur les réseaux sociaux",
+      "D. Non, c'est interdit par la loi et puni pénalement"
+    ],
+    "correct": 3,
+    "explanation": "Non, c'est interdit par la loi et puni pénalement. La loi punit l'injure et la discrimination liées au handicap, au sexe ou à l'apparence. La victime peut porter plainte et l'auteur risque une amende, voire de la prison.",
+    "source_series": 1
+  },
+  {
+    "question": "Certains métiers peuvent-ils être réservés aux hommes ?",
+    "choices": [
+      "A. Oui, les métiers physiquement difficiles",
+      "B. Oui, les métiers militaires",
+      "C. Non, l'égalité entre les femmes et les hommes est garantie par la loi",
+      "D. Oui, les métiers politiques"
+    ],
+    "correct": 2,
+    "explanation": "Non, l'égalité entre les femmes et les hommes est garantie par la loi. Depuis 1946, le préambule de la Constitution garantit aux femmes des droits égaux à ceux des hommes, y compris l'accès à tous les métiers, même militaires.",
+    "source_series": 1
+  },
+  {
+    "question": "De quand date la Constitution de la Ve République ?",
+    "choices": [
+      "A. Du 4 octobre 1958",
+      "B. Du 14 juillet 1789",
+      "C. Du 27 octobre 1946",
+      "D. Du 8 mai 1945"
+    ],
+    "correct": 0,
+    "explanation": "Du 4 octobre 1958. Préparée sous l'autorité du général de Gaulle et adoptée par référendum, la Constitution du 4 octobre 1958 fonde la Ve République.",
+    "source_series": 1
+  },
+  {
+    "question": "Le régime de la France est :",
+    "choices": [
+      "A. Une monarchie constitutionnelle",
+      "B. Une dictature militaire",
+      "C. Une démocratie parlementaire et présidentielle (République)",
+      "D. Une théocratie"
+    ],
+    "correct": 2,
+    "explanation": "Une démocratie parlementaire et présidentielle (République). La France est une République démocratique: le peuple élit ses représentants. Le pouvoir est partagé entre le président, le gouvernement et le Parlement.",
+    "source_series": 1
+  },
+  {
+    "question": "Lequel de ces symboles représente officiellement la République française ?",
+    "choices": [
+      "A. La tour Eiffel",
+      "B. Le drapeau tricolore bleu, blanc, rouge",
+      "C. Le coq gaulois",
+      "D. La fleur de lys"
+    ],
+    "correct": 1,
+    "explanation": "Le drapeau tricolore bleu, blanc, rouge. L'article 2 de la Constitution désigne l'emblème national: le drapeau bleu, blanc, rouge. La tour Eiffel ou le coq sont des symboles populaires, non officiels.",
+    "source_series": 1
+  },
+  {
+    "question": "Où peut-on voir la devise de la République ?",
+    "choices": [
+      "A. Uniquement dans les musées",
+      "B. Sur les billets de banque",
+      "C. Sur le fronton des bâtiments publics (mairies, écoles, etc.)",
+      "D. Uniquement dans la Constitution"
+    ],
+    "correct": 2,
+    "explanation": "Sur le fronton des bâtiments publics (mairies, écoles, etc.). Depuis la IIIe République, la devise est gravée au fronton des mairies et des écoles. On la trouve aussi sur les pièces de monnaie et certains documents officiels.",
+    "source_series": 1
+  },
+  {
+    "question": "Quels sont des symboles officiels de la République française ?",
+    "choices": [
+      "A. Le drapeau tricolore, La Marseillaise et la devise \"Liberté, Égalité, Fraternité\"",
+      "B. Le coq, la fleur de lys et Marianne",
+      "C. La tour Eiffel, l'Arc de triomphe et Notre-Dame",
+      "D. Le béret, la baguette et le fromage"
+    ],
+    "correct": 0,
+    "explanation": "Le drapeau tricolore, La Marseillaise et la devise \"Liberté, Égalité, Fraternité\". Ces trois symboles sont cités à l'article 2 de la Constitution de 1958. Le coq ou la tour Eiffel sont connus mais n'ont pas de statut officiel.",
+    "source_series": 1
+  },
+  {
+    "question": "Qu’est-ce que l’égalité ?",
+    "choices": [
+      "A. Avoir tous le même salaire",
+      "B. Avoir tous le même logement",
+      "C. Avoir tous la même opinion politique",
+      "D. Le fait que tous les citoyens sont égaux devant la loi et ont les mêmes droits"
+    ],
+    "correct": 3,
+    "explanation": "Le fait que tous les citoyens sont égaux devant la loi et ont les mêmes droits. La Déclaration des droits de l'homme de 1789 proclame ce principe: égalité devant la loi, la justice, l'impôt et l'accès aux emplois publics.",
+    "source_series": 1
+  },
+  {
+    "question": "Que signifie la liberté ?",
+    "choices": [
+      "A. Faire absolument tout ce que l'on veut sans aucune limite",
+      "B. Pouvoir agir comme on le souhaite dans le respect des lois et de la liberté des autres",
+      "C. Pouvoir ne pas respecter les lois",
+      "D. Pouvoir choisir son pays de résidence sans formalité"
+    ],
+    "correct": 1,
+    "explanation": "Pouvoir agir comme on le souhaite dans le respect des lois et de la liberté des autres. Selon l'article 4 de la Déclaration de 1789, la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui. La loi en fixe les limites.",
+    "source_series": 1
+  },
+  {
+    "question": "Que signifie le mot \"fraternité\" dans la devise française ?",
+    "choices": [
+      "A. Le lien de sang entre les Français",
+      "B. L'obligation d'avoir une famille nombreuse",
+      "C. La solidarité et l'entraide entre les citoyens",
+      "D. L'appartenance à une confrérie religieuse"
+    ],
+    "correct": 2,
+    "explanation": "La solidarité et l'entraide entre les citoyens. La fraternité se traduit concrètement par la solidarité: sécurité sociale, aides aux plus fragiles, bénévolat. Le Conseil constitutionnel en a fait un principe à valeur constitutionnelle en 2018.",
+    "source_series": 1
+  },
+  {
+    "question": "Quel animal est un symbole de la France ?",
+    "choices": [
+      "A. L'aigle",
+      "B. Le lion",
+      "C. Le loup",
+      "D. Le coq"
+    ],
+    "correct": 3,
+    "explanation": "Le coq. Le coq gaulois est un emblème traditionnel, présent sur les maillots des équipes sportives et certains monuments. Il n'est toutefois pas un symbole officiel inscrit dans la Constitution.",
+    "source_series": 1
+  },
+  {
+    "question": "Quel est l’un des rôles des associations ?",
+    "choices": [
+      "A. Permettre aux citoyens de s'engager bénévolement pour une cause commune",
+      "B. Remplacer les services de l'État",
+      "C. Imposer des taxes aux citoyens",
+      "D. Rédiger les lois de la République"
+    ],
+    "correct": 0,
+    "explanation": "Permettre aux citoyens de s'engager bénévolement pour une cause commune. La liberté d'association est garantie par la loi du 1er juillet 1901. Des millions de bénévoles s'engagent ainsi dans le sport, la culture ou la solidarité.",
+    "source_series": 1
+  },
+  {
+    "question": "Quel est le nom de l'hymne national ?",
+    "choices": [
+      "A. Le Chant des partisans",
+      "B. Le Chant du départ",
+      "C. La Marseillaise",
+      "D. La Carmagnole"
+    ],
+    "correct": 2,
+    "explanation": "La Marseillaise. Chant de guerre écrit par Rouget de Lisle en 1792, La Marseillaise est devenue hymne national en 1795, statut confirmé par la Constitution.",
+    "source_series": 1
+  },
+  {
+    "question": "Quel symbole de la République française est tricolore ?",
+    "choices": [
+      "A. La Marseillaise",
+      "B. La devise",
+      "C. Marianne",
+      "D. Le drapeau"
+    ],
+    "correct": 3,
+    "explanation": "Le drapeau. Né pendant la Révolution, le drapeau tricolore associe le blanc, couleur du roi, au bleu et au rouge, couleurs de la ville de Paris.",
+    "source_series": 1
+  },
+  {
+    "question": "Quelle est la date de la fête nationale française ?",
+    "choices": [
+      "A. Le 11 novembre",
+      "B. Le 14 juillet",
+      "C. Le 8 mai",
+      "D. Le 1er mai"
+    ],
+    "correct": 1,
+    "explanation": "Le 14 juillet. Cette fête a été instituée par une loi de 1880. Elle commémore la prise de la Bastille en 1789 et la fête de la Fédération de 1790.",
+    "source_series": 1
+  },
+  {
+    "question": "Quelle est la devise de la République française ?",
+    "choices": [
+      "A. Un pour tous, tous pour un",
+      "B. Honneur et patrie",
+      "C. Liberté, Égalité, Fraternité",
+      "D. Travail, Famille, Patrie"
+    ],
+    "correct": 2,
+    "explanation": "Liberté, Égalité, Fraternité. Apparue pendant la Révolution française, cette devise figure au fronton des bâtiments publics. « Travail, Famille, Patrie » était la devise du régime de Vichy, aujourd'hui abandonnée.",
+    "source_series": 1
+  },
+  {
+    "question": "Quelle est la langue officielle de la République française ?",
+    "choices": [
+      "A. Le français",
+      "B. Le breton",
+      "C. L'occitan",
+      "D. L'anglais"
+    ],
+    "correct": 0,
+    "explanation": "Le français. Conformément à l'article 2 de la Constitution, le français est la langue de la République. Les langues régionales appartiennent au patrimoine de la France.",
+    "source_series": 1
+  },
+  {
+    "question": "Quelle est la place de la langue française dans la République ?",
+    "choices": [
+      "A. C'est une langue parmi d'autres, sans statut particulier",
+      "B. C'est une langue facultative",
+      "C. C'est la langue réservée à l'administration uniquement",
+      "D. C'est la langue de la République selon l'article 2 de la Constitution"
+    ],
+    "correct": 3,
+    "explanation": "C'est la langue de la République selon l'article 2 de la Constitution. Cette phrase a été ajoutée à la Constitution en 1992. Le français est donc obligatoire dans l'administration, la justice et l'enseignement public.",
+    "source_series": 1
+  },
+  {
+    "question": "Quelle liberté permet à chacun d’exprimer ses idées ?",
+    "choices": [
+      "A. La liberté de circulation",
+      "B. La liberté de réunion",
+      "C. La liberté d'expression",
+      "D. La liberté du commerce"
+    ],
+    "correct": 2,
+    "explanation": "La liberté d'expression. Proclamée par l'article 11 de la Déclaration de 1789, la liberté d'expression protège la presse, les opinions et les débats, dans les limites fixées par la loi.",
+    "source_series": 1
+  },
+  {
+    "question": "Quelle proposition est correcte ? La liberté d'expression :",
+    "choices": [
+      "A. Permet de tenir des propos racistes ou antisémites",
+      "B. Est totale et sans aucune limite",
+      "C. N'existe pas en France",
+      "D. Permet d'exprimer ses opinions dans le respect des lois (pas d'injure, de diffamation, ni d'incitation à la haine)"
+    ],
+    "correct": 3,
+    "explanation": "Permet d'exprimer ses opinions dans le respect des lois (pas d'injure, de diffamation, ni d'incitation à la haine). La loi du 29 juillet 1881 sur la liberté de la presse punit l'injure, la diffamation et l'incitation à la haine. La liberté d'expression n'est donc jamais absolue.",
+    "source_series": 1
+  },
+  {
+    "question": "Quelles sont les couleurs du drapeau français ?",
+    "choices": [
+      "A. Bleu, blanc, rouge",
+      "B. Bleu, blanc, vert",
+      "C. Rouge, blanc, vert",
+      "D. Bleu, jaune, rouge"
+    ],
+    "correct": 0,
+    "explanation": "Bleu, blanc, rouge. Le bleu et le rouge rappellent Paris, le blanc la monarchie. Ce drapeau, adopté à la Révolution, flotte sur tous les bâtiments officiels.",
+    "source_series": 1
+  },
+  {
+    "question": "Qu'est-ce que la Marseillaise ?",
+    "choices": [
+      "A. L'hymne national de la République française",
+      "B. Un poème de Victor Hugo",
+      "C. Une danse traditionnelle du sud de la France",
+      "D. Le nom de la Constitution française"
+    ],
+    "correct": 0,
+    "explanation": "L'hymne national de la République française. Écrite à Strasbourg en 1792 pour l'armée du Rhin, cette chanson doit son nom aux volontaires marseillais qui l'ont popularisée en montant à Paris.",
+    "source_series": 1
+  },
+  {
+    "question": "Qu'est ce qui est traditionnellement organisé sur les Champs Élysées le 14 juillet pour célébrer la fête nationale ?",
+    "choices": [
+      "A. Un marathon",
+      "B. Un concert de rock",
+      "C. Une course cycliste",
+      "D. Un défilé militaire"
+    ],
+    "correct": 3,
+    "explanation": "Un défilé militaire. Ce défilé militaire se déroule le matin du 14 juillet, en présence du président de la République. Un feu d'artifice est aussi tiré le soir près de la tour Eiffel.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui est Marianne ?",
+    "choices": [
+      "A. La première femme présidente de la République",
+      "B. Une chanteuse française célèbre",
+      "C. L'allégorie (la personnification) de la République française",
+      "D. L'épouse du président de la République"
+    ],
+    "correct": 2,
+    "explanation": "L'allégorie (la personnification) de la République française. Coiffée du bonnet phrygien, symbole de liberté, Marianne figure sur les timbres, les pièces et dans de nombreuses mairies sous forme de buste.",
+    "source_series": 1
+  },
+  {
+    "question": "Une personne peut-elle changer librement de religion ?",
+    "choices": [
+      "A. Oui, la liberté de conscience et de religion est garantie en France",
+      "B. Non, c'est interdit par la loi",
+      "C. Uniquement avec l'autorisation du maire",
+      "D. Uniquement après un délai de cinq ans"
+    ],
+    "correct": 0,
+    "explanation": "Oui, la liberté de conscience et de religion est garantie en France. La liberté de conscience découle de la loi de 1905 et de l'article 10 de la Déclaration de 1789: chacun peut croire, changer de religion ou ne pas croire.",
+    "source_series": 1
+  },
+  {
+    "question": "\"La France est une République indivisible, ..., démocratique et sociale\". Complétez cette phrase extraite de l'article 1er de la Constitution :",
+    "choices": [
+      "A. Monarchique",
+      "B. Laïque",
+      "C. Fédérale",
+      "D. Militaire"
+    ],
+    "correct": 1,
+    "explanation": "Laïque. L'article 1er de la Constitution de 1958 proclame une République laïque: l'État ne reconnaît aucune religion officielle et respecte toutes les croyances.",
+    "source_series": 1
+  },
+  {
+    "question": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?",
+    "choices": [
+      "A. En 1789",
+      "B. En 1958",
+      "C. En 1905",
+      "D. En 1881"
+    ],
+    "correct": 2,
+    "explanation": "En 1905. Votée le 9 décembre 1905, cette loi fonde la laïcité française: la République garantit la liberté de culte mais ne salarie ni ne subventionne aucun culte.",
+    "source_series": 1
+  },
+  {
+    "question": "Que permet le principe de laïcité ?",
+    "choices": [
+      "A. D'interdire toutes les religions sur le territoire français",
+      "B. De rendre obligatoire une religion d'État",
+      "C. De réserver la citoyenneté aux personnes non croyantes",
+      "D. De garantir la liberté de conscience et l'égalité de tous les citoyens devant la loi, quelles que soient leurs croyances ou leur absence de croyance"
+    ],
+    "correct": 3,
+    "explanation": "De garantir la liberté de conscience et l'égalité de tous les citoyens devant la loi, quelles que soient leurs croyances ou leur absence de croyance. Issue de la loi de 1905, la laïcité impose la neutralité de l'État. Elle n'interdit aucune religion: elle protège croyants et non-croyants de la même manière.",
+    "source_series": 1
+  },
+  {
+    "question": "Quel droit est garanti par la laïcité ?",
+    "choices": [
+      "A. Le droit d'imposer sa religion aux autres citoyens",
+      "B. Le droit de croire ou de ne pas croire en une religion",
+      "C. Le droit de financer publiquement les cultes religieux",
+      "D. Le droit d'exiger un enseignement religieux à l'école publique"
+    ],
+    "correct": 1,
+    "explanation": "Le droit de croire ou de ne pas croire en une religion. Ce droit s'appelle la liberté de conscience. L'État reste neutre: depuis 1905, il ne finance aucun culte et ne favorise aucune religion.",
+    "source_series": 1
+  },
+  {
+    "question": "Pourquoi le principe de laïcité doit-il être respecté à l'école ?",
+    "choices": [
+      "A. Pour favoriser une religion majoritaire",
+      "B. Pour interdire toute discussion sur les religions",
+      "C. Pour garantir la liberté de conscience et la neutralité de l'enseignement",
+      "D. Pour obliger les élèves à pratiquer une religion d'État"
+    ],
+    "correct": 2,
+    "explanation": "Pour garantir la liberté de conscience et la neutralité de l'enseignement. Depuis les lois Jules Ferry de 1882, l'école publique est laïque. Les programmes sont neutres et une loi de 2004 encadre le port de signes religieux ostensibles.",
+    "source_series": 1
+  },
+  {
+    "question": "Qu'est-ce que la laïcité ?",
+    "choices": [
+      "A. Un principe qui interdit toute religion en France",
+      "B. Un principe qui impose une religion officielle à l'État",
+      "C. Un principe qui oblige les citoyens à être athées",
+      "D. Un principe qui sépare l'État et les religions et garantit la liberté de conscience"
+    ],
+    "correct": 3,
+    "explanation": "Un principe qui sépare l'État et les religions et garantit la liberté de conscience. La loi de 1905 sépare les Églises et l'État. Personne n'est obligé d'être athée: chacun pratique librement sa religion dans le respect de l'ordre public.",
+    "source_series": 1
+  },
+  {
+    "question": "Un enfant peut-il refuser d’aller à l’école pour une raison religieuse ?",
+    "choices": [
+      "A. Non, l'instruction est obligatoire et aucune religion ne peut justifier de ne pas y aller",
+      "B. Oui, si ses parents en font la demande écrite",
+      "C. Oui, pendant toute la durée des fêtes religieuses",
+      "D. Oui, à condition que ce soit un jour férié religieux"
+    ],
+    "correct": 0,
+    "explanation": "Non, l'instruction est obligatoire et aucune religion ne peut justifier de ne pas y aller. L'instruction est obligatoire en France de 3 à 16 ans pour tous les enfants. Aucun motif religieux ne permet de manquer les cours ou certaines matières.",
+    "source_series": 1
+  },
+  {
+    "question": "Une personne a-t-elle le droit de ne pas croire en une religion ?",
+    "choices": [
+      "A. Non, chaque citoyen doit déclarer une religion",
+      "B. Oui, la liberté de conscience est garantie par la laïcité",
+      "C. Non, sauf dérogation préfectorale",
+      "D. Oui, mais uniquement après 18 ans"
+    ],
+    "correct": 1,
+    "explanation": "Oui, la liberté de conscience est garantie par la laïcité. Athées et agnostiques ont les mêmes droits que les croyants. Cette liberté de conscience, protégée depuis 1905, s'applique à tout âge, sans aucune déclaration.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui nomme le Premier ministre ?",
+    "choices": [
+      "A. Le président de l'Assemblée nationale",
+      "B. Le Conseil constitutionnel",
+      "C. Le président de la République",
+      "D. Les députés de l'Assemblée nationale"
+    ],
+    "correct": 2,
+    "explanation": "Le président de la République. L'article 8 de la Constitution confie ce choix au chef de l'État. Le Premier ministre dirige ensuite le gouvernement et doit garder la confiance de l'Assemblée nationale.",
+    "source_series": 1
+  },
+  {
+    "question": "Le Parlement est composé :",
+    "choices": [
+      "A. Du Sénat et du Conseil constitutionnel",
+      "B. De l'Assemblée nationale et du Conseil d'État",
+      "C. Du gouvernement et de l'Assemblée nationale",
+      "D. De l'Assemblée nationale et du Sénat"
+    ],
+    "correct": 3,
+    "explanation": "De l'Assemblée nationale et du Sénat. Le Parlement est bicaméral: l'Assemblée nationale siège au palais Bourbon et le Sénat au palais du Luxembourg. Les deux chambres examinent et votent les lois.",
+    "source_series": 1
+  },
+  {
+    "question": "Qu'est-ce que le pouvoir exécutif ? Le pouvoir :",
+    "choices": [
+      "A. De faire appliquer la loi",
+      "B. De voter la loi",
+      "C. De juger l'application de la loi",
+      "D. De modifier la Constitution"
+    ],
+    "correct": 0,
+    "explanation": "De faire appliquer la loi. En France, ce pouvoir appartient au président de la République et au gouvernement. Ils mettent en œuvre les lois par des décrets et dirigent l'administration.",
+    "source_series": 1
+  },
+  {
+    "question": "Les dirigeants sont élus par les citoyens dans :",
+    "choices": [
+      "A. Une monarchie absolue",
+      "B. Une démocratie",
+      "C. Une dictature",
+      "D. Une théocratie"
+    ],
+    "correct": 1,
+    "explanation": "Une démocratie. Le mot vient du grec et signifie pouvoir du peuple. En démocratie, les citoyens choisissent leurs représentants lors d'élections libres et régulières.",
+    "source_series": 1
+  },
+  {
+    "question": "A-t-on le droit de ne pas respecter une loi ?",
+    "choices": [
+      "A. Oui, si l'on est en désaccord avec elle",
+      "B. Oui, si l'on est étranger",
+      "C. Non, tout le monde doit respecter la loi",
+      "D. Oui, sauf pour les lois fiscales"
+    ],
+    "correct": 2,
+    "explanation": "Non, tout le monde doit respecter la loi. Nul n'est censé ignorer la loi: ce principe s'impose à tous. Pour contester une loi, il faut utiliser des moyens légaux comme le vote ou la justice.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui doit respecter la loi ?",
+    "choices": [
+      "A. Uniquement les citoyens français",
+      "B. Toute personne vivant en France",
+      "C. Uniquement les majeurs",
+      "D. Uniquement les personnes condamnées"
+    ],
+    "correct": 1,
+    "explanation": "Toute personne vivant en France. La loi s'applique sur tout le territoire français, aux nationaux comme aux étrangers, aux mineurs comme aux majeurs. Personne n'est au-dessus de la loi.",
+    "source_series": 1
+  },
+  {
+    "question": "Quel est le rôle de l'autorité judiciaire ?",
+    "choices": [
+      "A. Voter les lois",
+      "B. Nommer le Premier ministre",
+      "C. Diriger le gouvernement",
+      "D. Faire respecter la loi et protéger les libertés individuelles"
+    ],
+    "correct": 3,
+    "explanation": "Faire respecter la loi et protéger les libertés individuelles. L'article 66 de la Constitution fait de l'autorité judiciaire la gardienne de la liberté individuelle. Les juges sont indépendants du gouvernement et du Parlement.",
+    "source_series": 1
+  },
+  {
+    "question": "Quel pouvoir détient un juge ? Le pouvoir :",
+    "choices": [
+      "A. Législatif",
+      "B. Exécutif",
+      "C. Judiciaire",
+      "D. Réglementaire"
+    ],
+    "correct": 2,
+    "explanation": "Judiciaire. Selon la séparation des pouvoirs, le juge applique la loi aux litiges et aux infractions. Il ne peut ni voter les lois ni gouverner.",
+    "source_series": 1
+  },
+  {
+    "question": "L'autorité judiciaire est exercée par :",
+    "choices": [
+      "A. Les députés et sénateurs",
+      "B. Les ministres",
+      "C. Les préfets",
+      "D. Les magistrats (juges et procureurs)"
+    ],
+    "correct": 3,
+    "explanation": "Les magistrats (juges et procureurs). Les magistrats du siège rendent les jugements, ceux du parquet (les procureurs) représentent la société et demandent l'application de la loi devant les tribunaux.",
+    "source_series": 1
+  },
+  {
+    "question": "Que se passe-t-il si un ministre ne respecte pas la loi ?",
+    "choices": [
+      "A. Il bénéficie d'une immunité totale",
+      "B. Il est jugé comme tout citoyen et peut être sanctionné",
+      "C. Il est simplement déplacé dans un autre ministère",
+      "D. Rien, les ministres ne peuvent pas être poursuivis"
+    ],
+    "correct": 1,
+    "explanation": "Il est jugé comme tout citoyen et peut être sanctionné. L'égalité devant la loi vaut aussi pour les gouvernants. Pour les actes commis dans leurs fonctions, les ministres relèvent de la Cour de justice de la République.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui est élu lors des élections législatives ?",
+    "choices": [
+      "A. Les députés",
+      "B. Les sénateurs",
+      "C. Les maires",
+      "D. Le président de la République"
+    ],
+    "correct": 0,
+    "explanation": "Les députés. Les élections législatives ont lieu en principe tous les cinq ans. Chaque député est élu dans une circonscription, au scrutin majoritaire à deux tours.",
+    "source_series": 1
+  },
+  {
+    "question": "Combien de députés composent l’Assemblée nationale ?",
+    "choices": [
+      "A. 348",
+      "B. 500",
+      "C. 577",
+      "D. 925"
+    ],
+    "correct": 2,
+    "explanation": "577. Ce nombre de 577 sièges est fixé par la loi depuis 1986. Chaque député représente une circonscription, en métropole, outre-mer ou pour les Français de l'étranger.",
+    "source_series": 1
+  },
+  {
+    "question": "Quand sont élus les sénateurs ?",
+    "choices": [
+      "A. Tous les 5 ans, en intégralité",
+      "B. Tous les 7 ans, en intégralité",
+      "C. Tous les 3 ans, par moitié",
+      "D. Tous les 6 ans, en intégralité"
+    ],
+    "correct": 2,
+    "explanation": "Tous les 3 ans, par moitié. Élus pour six ans, les sénateurs sont renouvelés par moitié tous les trois ans. Ils sont choisis au suffrage indirect par les grands électeurs.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui est élu lors des élections municipales ?",
+    "choices": [
+      "A. Les conseillers municipaux",
+      "B. Les députés",
+      "C. Les sénateurs",
+      "D. Les conseillers régionaux"
+    ],
+    "correct": 0,
+    "explanation": "Les conseillers municipaux. Tous les six ans, les habitants élisent les conseillers municipaux au suffrage universel direct. Ces conseillers élisent ensuite le maire parmi eux.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui est élu lors des élections présidentielles ?",
+    "choices": [
+      "A. Le Premier ministre",
+      "B. Le président du Sénat",
+      "C. Le président de la République",
+      "D. Le président de l'Assemblée nationale"
+    ],
+    "correct": 2,
+    "explanation": "Le président de la République. Depuis le référendum de 1962, le président de la République est élu au suffrage universel direct, au scrutin majoritaire à deux tours.",
+    "source_series": 1
+  },
+  {
+    "question": "À partir de quel âge a-t-on le droit de voter ?",
+    "choices": [
+      "A. 16 ans",
+      "B. 18 ans",
+      "C. 21 ans",
+      "D. 25 ans"
+    ],
+    "correct": 1,
+    "explanation": "18 ans. La majorité électorale est passée de 21 à 18 ans en 1974. Il faut aussi être inscrit sur les listes électorales pour pouvoir voter.",
+    "source_series": 1
+  },
+  {
+    "question": "Pour combien de temps est élu le président de la République française ?",
+    "choices": [
+      "A. 4 ans",
+      "B. 5 ans",
+      "C. 6 ans",
+      "D. 7 ans"
+    ],
+    "correct": 1,
+    "explanation": "5 ans. Le quinquennat a remplacé le septennat après le référendum de 2000. Un président ne peut pas exercer plus de deux mandats consécutifs.",
+    "source_series": 1
+  },
+  {
+    "question": "Pour combien de temps sont élus les députés ?",
+    "choices": [
+      "A. 3 ans",
+      "B. 4 ans",
+      "C. 5 ans",
+      "D. 6 ans"
+    ],
+    "correct": 2,
+    "explanation": "5 ans. Le mandat des députés dure cinq ans, c'est la législature. Il peut s'arrêter plus tôt si le président de la République dissout l'Assemblée nationale.",
+    "source_series": 1
+  },
+  {
+    "question": "Pour combien de temps sont élus les sénateurs ?",
+    "choices": [
+      "A. 9 ans",
+      "B. 7 ans",
+      "C. 5 ans",
+      "D. 6 ans"
+    ],
+    "correct": 3,
+    "explanation": "6 ans. Depuis la réforme de 2003, le mandat sénatorial dure six ans, contre neuf auparavant. Le Sénat est renouvelé par moitié tous les trois ans.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui possède le pouvoir exécutif ?",
+    "choices": [
+      "A. Le président de la République et le gouvernement",
+      "B. L'Assemblée nationale et le Sénat",
+      "C. Les juges et les magistrats",
+      "D. Le Conseil constitutionnel"
+    ],
+    "correct": 0,
+    "explanation": "Le président de la République et le gouvernement. L'exécutif est bicéphale en France: le président définit les grandes orientations et le gouvernement, dirigé par le Premier ministre, conduit la politique de la nation.",
+    "source_series": 1
+  },
+  {
+    "question": "Quelle condition est nécessaire pour voter aux élections ?",
+    "choices": [
+      "A. Habiter en France depuis au moins 10 ans",
+      "B. Être inscrit sur les listes électorales",
+      "C. Avoir payé l'impôt sur le revenu",
+      "D. Posséder un permis de conduire"
+    ],
+    "correct": 1,
+    "explanation": "Être inscrit sur les listes électorales. L'inscription sur les listes électorales se fait en mairie ou en ligne. Les jeunes de 18 ans recensés sont inscrits automatiquement.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui peut voter aux élections en France ?",
+    "choices": [
+      "A. Toute personne résidant en France, sans condition",
+      "B. Uniquement les hommes français majeurs",
+      "C. Tous les étrangers résidant en France",
+      "D. Les citoyens français majeurs jouissant de leurs droits civils et politiques"
+    ],
+    "correct": 3,
+    "explanation": "Les citoyens français majeurs jouissant de leurs droits civils et politiques. Le vote suppose la nationalité française, 18 ans et l'inscription sur les listes. Les citoyens européens peuvent toutefois voter aux élections municipales et européennes.",
+    "source_series": 1
+  },
+  {
+    "question": "Que signifie « suffrage universel » ?",
+    "choices": [
+      "A. Seuls les hommes peuvent voter",
+      "B. Seuls les contribuables peuvent voter",
+      "C. Tous les citoyens ont le droit de voter, sans distinction",
+      "D. Seuls les diplômés peuvent voter"
+    ],
+    "correct": 2,
+    "explanation": "Tous les citoyens ont le droit de voter, sans distinction. Le suffrage universel masculin date de 1848 en France. Les femmes ont obtenu le droit de vote en 1944 et ont voté pour la première fois en 1945.",
+    "source_series": 1
+  },
+  {
+    "question": "Concernant les partis politiques, quelle proposition est correcte ?",
+    "choices": [
+      "A. Un seul parti politique est autorisé en France",
+      "B. Les partis politiques sont interdits par la Constitution",
+      "C. Les partis politiques se forment et exercent leur activité librement",
+      "D. Les partis politiques sont nommés par le président de la République"
+    ],
+    "correct": 2,
+    "explanation": "Les partis politiques se forment et exercent leur activité librement. L'article 4 de la Constitution garantit la libre formation et la libre activité des partis. Le pluralisme politique est une condition de la démocratie.",
+    "source_series": 1
+  },
+  {
+    "question": "Quel est le rôle des députés ?",
+    "choices": [
+      "A. Voter la loi et contrôler l'action du gouvernement",
+      "B. Juger les criminels",
+      "C. Nommer les ministres",
+      "D. Diriger la police nationale"
+    ],
+    "correct": 0,
+    "explanation": "Voter la loi et contrôler l'action du gouvernement. Réunis à l'Assemblée nationale, les députés examinent les projets de loi, peuvent en proposer et contrôlent le gouvernement, notamment par les questions et la motion de censure.",
+    "source_series": 1
+  },
+  {
+    "question": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+    "choices": [
+      "A. Le pouvoir militaire, le pouvoir économique et le pouvoir religieux",
+      "B. Le pouvoir législatif, le pouvoir exécutif et le pouvoir judiciaire",
+      "C. Le pouvoir présidentiel, le pouvoir ministériel et le pouvoir parlementaire",
+      "D. Le pouvoir local, le pouvoir national et le pouvoir européen"
+    ],
+    "correct": 1,
+    "explanation": "Le pouvoir législatif, le pouvoir exécutif et le pouvoir judiciaire. Théorisée par Montesquieu au XVIIIe siècle, cette séparation évite la concentration du pouvoir: le Parlement légifère, le gouvernement exécute, les juges tranchent les litiges.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui possède le pouvoir législatif ?",
+    "choices": [
+      "A. Le président de la République",
+      "B. Le gouvernement",
+      "C. Le Parlement (Assemblée nationale et Sénat)",
+      "D. Le Conseil constitutionnel"
+    ],
+    "correct": 2,
+    "explanation": "Le Parlement (Assemblée nationale et Sénat). Députés et sénateurs votent la loi et le budget de l'État. En cas de désaccord entre les deux chambres, l'Assemblée nationale a le dernier mot.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui sanctionne l'auteur d'un vol ?",
+    "choices": [
+      "A. Le maire de la commune",
+      "B. Le préfet du département",
+      "C. Le juge",
+      "D. Le président de la République"
+    ],
+    "correct": 2,
+    "explanation": "Le juge. Le vol est un délit jugé par le tribunal correctionnel. Seule la justice peut prononcer une peine: ni le maire ni le préfet n'ont ce pouvoir.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui élit les députés ?",
+    "choices": [
+      "A. Le président de la République",
+      "B. Les citoyens français au suffrage universel direct",
+      "C. Les sénateurs",
+      "D. Le Premier ministre"
+    ],
+    "correct": 1,
+    "explanation": "Les citoyens français au suffrage universel direct. Chaque circonscription élit son député au scrutin majoritaire à deux tours. Tout électeur français inscrit sur les listes peut participer à ce vote direct.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui vote les lois ?",
+    "choices": [
+      "A. Le Parlement (Assemblée nationale et Sénat)",
+      "B. Le président de la République",
+      "C. Le Conseil constitutionnel",
+      "D. Le gouvernement"
+    ],
+    "correct": 0,
+    "explanation": "Le Parlement (Assemblée nationale et Sénat). Voter la loi est la mission première du Parlement. Le gouvernement et les parlementaires peuvent proposer des textes, mais ce sont les deux chambres qui les votent.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui réside au palais de l'Élysée ?",
+    "choices": [
+      "A. Le Premier ministre",
+      "B. Le président du Sénat",
+      "C. Le président de l'Assemblée nationale",
+      "D. Le président de la République"
+    ],
+    "correct": 3,
+    "explanation": "Le président de la République. Ancien hôtel particulier du XVIIIe siècle, le palais de l'Élysée est la résidence officielle du chef de l'État depuis 1848. Le Premier ministre, lui, occupe Matignon.",
+    "source_series": 1
+  },
+  {
+    "question": "Combien y a-t-il de départements en France ?",
+    "choices": [
+      "A. 96",
+      "B. 101",
+      "C. 100",
+      "D. 110"
+    ],
+    "correct": 1,
+    "explanation": "101. La France compte 96 départements en métropole et 5 outre-mer, soit 101 au total depuis que Mayotte est devenue département en 2011.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui représente l'État dans un département ?",
+    "choices": [
+      "A. Le maire",
+      "B. Le président du conseil départemental",
+      "C. Le préfet",
+      "D. Le député"
+    ],
+    "correct": 2,
+    "explanation": "Le préfet. Nommé en Conseil des ministres, le préfet veille à l'application des lois, à l'ordre public et coordonne les services de l'État dans le département.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui dirige la commune ?",
+    "choices": [
+      "A. Le maire",
+      "B. Le préfet",
+      "C. Le député",
+      "D. Le sénateur"
+    ],
+    "correct": 0,
+    "explanation": "Le maire. Élu par le conseil municipal pour six ans, le maire gère la commune: écoles, urbanisme, état civil. Il célèbre notamment les mariages en mairie.",
+    "source_series": 1
+  },
+  {
+    "question": "Est-ce que le président de la République a tous les pouvoirs ?",
+    "choices": [
+      "A. Oui, il a tous les pouvoirs",
+      "B. Non, ses pouvoirs sont limités par la Constitution",
+      "C. Oui, sauf en matière militaire",
+      "D. Oui, mais seulement pendant son mandat"
+    ],
+    "correct": 1,
+    "explanation": "Non, ses pouvoirs sont limités par la Constitution. La Constitution organise la séparation des pouvoirs: le Parlement vote les lois, la justice est indépendante et le Conseil constitutionnel contrôle le respect de la Constitution.",
+    "source_series": 1
+  },
+  {
+    "question": "Qui est le préfet ?",
+    "choices": [
+      "A. Un élu local choisi par les habitants du département",
+      "B. Un magistrat nommé par le Conseil constitutionnel",
+      "C. Le chef du gouvernement régional",
+      "D. Le représentant de l'État dans le département, nommé par le président de la République"
+    ],
+    "correct": 3,
+    "explanation": "Le représentant de l'État dans le département, nommé par le président de la République. L'article 72 de la Constitution prévoit ce représentant de l'État. Nommé par décret du président de la République, le préfet n'est pas un élu.",
+    "source_series": 1
+  },
+  {
+    "question": "Quel est le rôle du Parlement ?",
+    "choices": [
+      "A. Diriger l'administration de l'État",
+      "B. Voter les lois et contrôler l'action du gouvernement",
+      "C. Nommer le président de la République",
+      "D. Juger les criminels"
+    ],
+    "correct": 1,
+    "explanation": "Voter les lois et contrôler l'action du gouvernement. Ces deux missions figurent à l'article 24 de la Constitution. Le Parlement évalue aussi les politiques publiques, par des commissions d'enquête notamment.",
+    "source_series": 1
+  },
+  {
+    "question": "Quel est le régime politique de la France aujourd'hui ?",
+    "choices": [
+      "A. Une monarchie constitutionnelle",
+      "B. Une république parlementaire",
+      "C. Une république démocratique semi-présidentielle",
+      "D. Une république fédérale"
+    ],
+    "correct": 2,
+    "explanation": "Une république démocratique semi-présidentielle. Le régime de la Ve République est qualifié de semi-présidentiel: un président élu au suffrage direct partage l'exécutif avec un gouvernement responsable devant l'Assemblée nationale.",
+    "source_series": 1
+  },
+  {
+    "question": "Combien d'États font partie de l'Union européenne au 1er janvier 2025 ?",
+    "choices": [
+      "A. 25",
+      "B. 26",
+      "C. 27",
+      "D. 28"
+    ],
+    "correct": 2,
+    "explanation": "27. Depuis le départ du Royaume-Uni en 2020 (Brexit), l'Union européenne compte 27 États membres. La France en fait partie depuis sa fondation.",
+    "source_series": 1
+  },
+  {
+    "question": "Quel État n'est pas membre de l'Union européenne ?",
+    "choices": [
+      "A. Le Royaume-Uni",
+      "B. L'Allemagne",
+      "C. L'Italie",
+      "D. La Pologne"
+    ],
+    "correct": 0,
+    "explanation": "Le Royaume-Uni. Le Royaume-Uni a quitté l'Union européenne le 31 janvier 2020, après le référendum de 2016 sur le Brexit.",
+    "source_series": 1
+  },
+  {
+    "question": "Quelle condition est nécessaire pour voter aux élections européennes ?",
+    "choices": [
+      "A. Être propriétaire d'un logement",
+      "B. Avoir la nationalité française uniquement",
+      "C. Parler français couramment",
+      "D. Être citoyen d'un État membre de l'Union européenne, majeur et inscrit sur les listes électorales"
+    ],
+    "correct": 3,
+    "explanation": "Être citoyen d'un État membre de l'Union européenne, majeur et inscrit sur les listes électorales. Tout citoyen de l'Union européenne résidant en France peut voter aux élections européennes, à condition d'avoir 18 ans et d'être inscrit sur les listes électorales.",
+    "source_series": 1
+  },
+  {
+    "question": "À quelle fréquence les élections européennes sont-elles organisées ?",
+    "choices": [
+      "A. Tous les 4 ans",
+      "B. Tous les 5 ans",
+      "C. Tous les 6 ans",
+      "D. Tous les 7 ans"
+    ],
+    "correct": 1,
+    "explanation": "Tous les 5 ans. Les députés européens sont élus pour un mandat de cinq ans au suffrage universel direct, depuis la première élection de 1979.",
+    "source_series": 1
+  },
+  {
+    "question": "Quel pays est un pays fondateur de l'Union européenne ?",
+    "choices": [
+      "A. L'Espagne",
+      "B. Le Portugal",
+      "C. L'Allemagne",
+      "D. La Grèce"
+    ],
+    "correct": 2,
+    "explanation": "L'Allemagne. L'Allemagne a signé le traité de Rome en 1957 avec la France, l'Italie, la Belgique, les Pays-Bas et le Luxembourg, les six pays fondateurs.",
+    "source_series": 1
+  },
+  {
+    "question": "Quelle est la monnaie utilisée en France ?",
+    "choices": [
+      "A. Le franc",
+      "B. L'euro",
+      "C. Le dollar",
+      "D. La livre sterling"
+    ],
+    "correct": 1,
+    "explanation": "L'euro. L'euro a remplacé le franc en 2002 pour les paiements en espèces. Cette monnaie est partagée par une vingtaine de pays de l'Union européenne.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui élit les députés européens ?",
+    "choices": [
+      "A. Les chefs d'État de l'Union européenne",
+      "B. Les parlements nationaux",
+      "C. La Commission européenne",
+      "D. Les citoyens des États membres de l'Union européenne au suffrage universel direct"
+    ],
+    "correct": 3,
+    "explanation": "Les citoyens des États membres de l'Union européenne au suffrage universel direct. Les citoyens de chaque État membre votent directement pour leurs députés européens. La France élit 81 députés au Parlement européen.",
+    "source_series": 2
+  },
+  {
+    "question": "Quand célèbre-t-on la journée de l'Europe ?",
+    "choices": [
+      "A. Le 9 mai",
+      "B. Le 14 juillet",
+      "C. Le 1er mai",
+      "D. Le 25 mars"
+    ],
+    "correct": 0,
+    "explanation": "Le 9 mai. Cette date commémore la déclaration de Robert Schuman du 9 mai 1950, considérée comme le point de départ de la construction européenne.",
+    "source_series": 2
+  },
+  {
+    "question": "Comment s’appelle la Constitution actuelle de la France ?",
+    "choices": [
+      "A. La Constitution de la IVe République",
+      "B. La Constitution du 4 octobre 1958 (Ve République)",
+      "C. La Constitution de 1946",
+      "D. La Constitution de 1789"
+    ],
+    "correct": 1,
+    "explanation": "La Constitution du 4 octobre 1958 (Ve République). Adoptée par référendum en septembre 1958, cette Constitution a fondé la Ve République sous l'impulsion du général de Gaulle.",
+    "source_series": 2
+  },
+  {
+    "question": "Comment s'appelle le texte qui énonce les droits et devoirs des personnes résidant en France ?",
+    "choices": [
+      "A. La Charte de l'environnement",
+      "B. Le Code civil",
+      "C. La Déclaration des droits de l'homme et du citoyen",
+      "D. Le Traité de Rome"
+    ],
+    "correct": 2,
+    "explanation": "La Déclaration des droits de l'homme et du citoyen. Adoptée en 1789 pendant la Révolution française, cette Déclaration garde une valeur constitutionnelle: les lois doivent toujours respecter ses principes.",
+    "source_series": 2
+  },
+  {
+    "question": "Concernant les droits individuels, quelle proposition est correcte ?",
+    "choices": [
+      "A. Les droits individuels ne s'appliquent qu'aux Français",
+      "B. Tous les êtres humains naissent libres et égaux en droits",
+      "C. Les droits individuels sont accordés par le président de la République",
+      "D. Les droits individuels ne concernent que les hommes adultes"
+    ],
+    "correct": 1,
+    "explanation": "Tous les êtres humains naissent libres et égaux en droits. Ce principe universel figure dans la Déclaration de 1789 et dans la Déclaration universelle des droits de l'homme de 1948. Il s'applique à toute personne, sans condition de nationalité.",
+    "source_series": 2
+  },
+  {
+    "question": "De quelle année date la Déclaration des droits de l’homme et du citoyen ?",
+    "choices": [
+      "A. 1791",
+      "B. 1804",
+      "C. 1789",
+      "D. 1848"
+    ],
+    "correct": 2,
+    "explanation": "1789. Votée le 26 août 1789 par l'Assemblée nationale constituante, la Déclaration proclame la liberté et l'égalité quelques semaines après la prise de la Bastille.",
+    "source_series": 2
+  },
+  {
+    "question": "Lequel de ces droits est un droit fondamental ?",
+    "choices": [
+      "A. Le droit à la liberté d'expression",
+      "B. Le droit de posséder une voiture",
+      "C. Le droit de voyager en avion",
+      "D. Le droit d'avoir un compte bancaire"
+    ],
+    "correct": 0,
+    "explanation": "Le droit à la liberté d'expression. La liberté d'expression est protégée par la Déclaration de 1789 et par la Convention européenne des droits de l'homme. Posséder une voiture n'est pas un droit fondamental.",
+    "source_series": 2
+  },
+  {
+    "question": "Parmi ces textes, lequel garantit les droits et libertés en France ?",
+    "choices": [
+      "A. Le Traité de Maastricht",
+      "B. La Déclaration des droits de l'homme et du citoyen de 1789",
+      "C. Le Code de la route",
+      "D. La Charte des Nations unies"
+    ],
+    "correct": 1,
+    "explanation": "La Déclaration des droits de l'homme et du citoyen de 1789. Ce texte de 1789 proclame que les hommes naissent et demeurent libres et égaux en droits. Le Conseil constitutionnel s'appuie encore sur lui aujourd'hui.",
+    "source_series": 2
+  },
+  {
+    "question": "Qu’est-ce que la liberté d’expression ?",
+    "choices": [
+      "A. Le droit de voter aux élections",
+      "B. Le droit de pratiquer une religion",
+      "C. Le droit de circuler librement",
+      "D. Le droit d'exprimer ses opinions, ses idées et ses convictions, dans le respect de la loi"
+    ],
+    "correct": 3,
+    "explanation": "Le droit d'exprimer ses opinions, ses idées et ses convictions, dans le respect de la loi. L'article 11 de la Déclaration de 1789 protège cette liberté, l'une des plus précieuses. Elle s'exerce dans le cadre fixé par la loi, notamment la loi de 1881 sur la presse.",
+    "source_series": 2
+  },
+  {
+    "question": "Quel droit permet à une personne de se défendre devant la justice ?",
+    "choices": [
+      "A. Le droit à un avocat et à un procès équitable (droits de la défense)",
+      "B. Le droit de propriété",
+      "C. Le droit de grève",
+      "D. Le droit de vote"
+    ],
+    "correct": 0,
+    "explanation": "Le droit à un avocat et à un procès équitable (droits de la défense). Toute personne accusée peut être assistée d'un avocat, gratuit si ses revenus sont faibles (aide juridictionnelle). Elle est présumée innocente jusqu'au jugement.",
+    "source_series": 2
+  },
+  {
+    "question": "Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ?",
+    "choices": [
+      "A. Le Code civil de 1804",
+      "B. La Constitution de 1958",
+      "C. La Déclaration des droits de l'homme et du citoyen de 1789",
+      "D. Le Traité de Versailles"
+    ],
+    "correct": 2,
+    "explanation": "La Déclaration des droits de l'homme et du citoyen de 1789. Le préambule de la Constitution de 1958 se réfère directement à la Déclaration de 1789, qui a aussi inspiré de nombreuses démocraties dans le monde.",
+    "source_series": 2
+  },
+  {
+    "question": "Quel texte a été adopté pendant la Révolution française ?",
+    "choices": [
+      "A. La Déclaration des droits de l'homme et du citoyen",
+      "B. La Constitution de la Ve République",
+      "C. Le Traité de Rome",
+      "D. La Charte de l'environnement"
+    ],
+    "correct": 0,
+    "explanation": "La Déclaration des droits de l'homme et du citoyen. Proclamée en août 1789, la Déclaration rompt avec l'Ancien Régime: elle abolit les principes de la monarchie absolue et fonde l'égalité devant la loi.",
+    "source_series": 2
+  },
+  {
+    "question": "Quelle liberté permet à une personne de ne pas avoir de religion ?",
+    "choices": [
+      "A. La liberté d'expression",
+      "B. La liberté de conscience (et de religion)",
+      "C. La liberté d'association",
+      "D. La liberté de circulation"
+    ],
+    "correct": 1,
+    "explanation": "La liberté de conscience (et de religion). La laïcité garantit la liberté de conscience: chacun peut croire, changer de religion ou ne pas croire. Ce principe est protégé par la loi de 1905.",
+    "source_series": 2
+  },
+  {
+    "question": "Une femme peut avorter :",
+    "choices": [
+      "A. Uniquement avec l'accord de son conjoint",
+      "B. Uniquement pour raisons médicales",
+      "C. Librement, jusqu'à la fin de la 14e semaine de grossesse",
+      "D. À tout moment de la grossesse, sans condition"
+    ],
+    "correct": 2,
+    "explanation": "Librement, jusqu'à la fin de la 14e semaine de grossesse. Légal depuis la loi Veil de 1975, l'avortement est possible jusqu'à quatorze semaines de grossesse depuis 2022. Cette liberté est inscrite dans la Constitution depuis 2024.",
+    "source_series": 2
+  },
+  {
+    "question": "Est-il toujours possible de divorcer ?",
+    "choices": [
+      "A. Non, le divorce est interdit en France",
+      "B. Oui, le divorce est un droit reconnu en France",
+      "C. Oui, mais seulement après 10 ans de mariage",
+      "D. Non, sauf en cas de faute grave"
+    ],
+    "correct": 1,
+    "explanation": "Oui, le divorce est un droit reconnu en France. Le divorce est définitivement autorisé en France depuis 1884. Chaque époux peut le demander, et le divorce par consentement mutuel existe depuis 1975.",
+    "source_series": 2
+  },
+  {
+    "question": "La peine de mort est :",
+    "choices": [
+      "A. Autorisée dans certains cas graves",
+      "B. Réservée aux crimes contre l'État",
+      "C. Abolie en France depuis 1981",
+      "D. Décidée par le Président de la République"
+    ],
+    "correct": 2,
+    "explanation": "Abolie en France depuis 1981. Défendue par Robert Badinter, ministre de la Justice, la loi d'abolition a été promulguée le 9 octobre 1981. Depuis 2007, cette interdiction figure dans la Constitution.",
+    "source_series": 2
+  },
+  {
+    "question": "Concernant les limites aux libertés individuelles, quelle proposition est correcte ?",
+    "choices": [
+      "A. Les libertés individuelles sont absolues et sans limites",
+      "B. La liberté de chacun s'arrête là où commence celle des autres",
+      "C. Seul le Président peut limiter les libertés individuelles",
+      "D. Les libertés individuelles ne s'appliquent qu'aux citoyens français"
+    ],
+    "correct": 1,
+    "explanation": "La liberté de chacun s'arrête là où commence celle des autres. Ce principe figure déjà dans l'article 4 de la Déclaration de 1789: la liberté consiste à faire tout ce qui ne nuit pas à autrui. La loi fixe ces limites.",
+    "source_series": 2
+  },
+  {
+    "question": "En France, est-ce légal d'être marié à plusieurs personnes en même temps ?",
+    "choices": [
+      "A. Oui, sans restriction",
+      "B. Oui, avec l'accord du maire",
+      "C. Non, la polygamie est interdite en France",
+      "D. Oui, pour les personnes de certaines religions"
+    ],
+    "correct": 2,
+    "explanation": "Non, la polygamie est interdite en France. Le Code civil interdit d'être marié à plusieurs personnes en même temps. La bigamie est un délit, et la polygamie peut empêcher la délivrance d'un titre de séjour.",
+    "source_series": 2
+  },
+  {
+    "question": "Faut-il réduire ses déchets ?",
+    "choices": [
+      "A. Oui, pour protéger l'environnement",
+      "B. Non, ce n'est pas nécessaire",
+      "C. Seulement si on habite en ville",
+      "D. Uniquement les déchets dangereux"
+    ],
+    "correct": 0,
+    "explanation": "Oui, pour protéger l'environnement. La Charte de l'environnement, intégrée à la Constitution en 2005, fait de la protection de l'environnement un devoir de chacun. Trier et limiter ses déchets y contribue.",
+    "source_series": 2
+  },
+  {
+    "question": "Jeter une bouteille dans la rue est :",
+    "choices": [
+      "A. Autorisé si la bouteille est en verre",
+      "B. Toléré dans les zones piétonnes",
+      "C. Sans conséquence si personne ne le voit",
+      "D. Interdit et puni d'une amende"
+    ],
+    "correct": 3,
+    "explanation": "Interdit et puni d'une amende. Abandonner un déchet sur la voie publique est une infraction punie d'une amende forfaitaire de 135 euros. Ce geste nuit aussi à la propreté et à l'environnement.",
+    "source_series": 2
+  },
+  {
+    "question": "Pourquoi les libertés individuelles peuvent-elles être limitées ?",
+    "choices": [
+      "A. Pour respecter les libertés des autres et l'ordre public",
+      "B. Pour favoriser certaines catégories de citoyens",
+      "C. Pour renforcer le pouvoir du gouvernement",
+      "D. Pour des raisons économiques uniquement"
+    ],
+    "correct": 0,
+    "explanation": "Pour respecter les libertés des autres et l'ordre public. Aucune liberté n'est absolue. La loi interdit par exemple la diffamation et les appels à la violence, afin de protéger les personnes et l'ordre public.",
+    "source_series": 2
+  },
+  {
+    "question": "Que doit faire une personne en cas d’accident ?",
+    "choices": [
+      "A. Continuer son chemin sans s'arrêter",
+      "B. Attendre que d'autres personnes interviennent",
+      "C. Porter secours et alerter les secours (15, 17, 18 ou 112)",
+      "D. Prendre des photos pour les réseaux sociaux"
+    ],
+    "correct": 2,
+    "explanation": "Porter secours et alerter les secours (15, 17, 18 ou 112). Ne pas aider une personne en danger est un délit (non-assistance à personne en danger). Le 15 correspond au Samu, le 18 aux pompiers et le 112 au numéro européen.",
+    "source_series": 2
+  },
+  {
+    "question": "Que permet la citoyenneté française ?",
+    "choices": [
+      "A. De voyager uniquement en Europe",
+      "B. D'avoir des avantages fiscaux exclusifs",
+      "C. D'être dispensé de toute obligation légale",
+      "D. De voter, d'être élu et de participer à la vie démocratique"
+    ],
+    "correct": 3,
+    "explanation": "De voter, d'être élu et de participer à la vie démocratique. Le droit de vote et l'éligibilité sont réservés aux citoyens français pour les élections nationales. La citoyenneté s'obtient par la naissance ou par naturalisation.",
+    "source_series": 2
+  },
+  {
+    "question": "Que risque une personne qui ne respecte pas la loi ?",
+    "choices": [
+      "A. Rien, sauf en cas de récidive",
+      "B. Une sanction pénale (amende, prison, etc.)",
+      "C. Uniquement un avertissement",
+      "D. Une simple remontrance morale"
+    ],
+    "correct": 1,
+    "explanation": "Une sanction pénale (amende, prison, etc.). Nul n'est censé ignorer la loi: toute infraction expose à des sanctions pénales, de l'amende à la prison, prononcées par un tribunal.",
+    "source_series": 2
+  },
+  {
+    "question": "Quel est le rôle de la gendarmerie ?",
+    "choices": [
+      "A. Gérer les affaires fiscales des particuliers",
+      "B. Assurer la sécurité, principalement dans les zones rurales et péri-urbaines",
+      "C. Contrôler uniquement les frontières extérieures",
+      "D. S'occuper exclusivement des affaires militaires"
+    ],
+    "correct": 1,
+    "explanation": "Assurer la sécurité, principalement dans les zones rurales et péri-urbaines. Force armée rattachée au ministère de l'Intérieur depuis 2009, la gendarmerie nationale protège la population sur la plus grande partie du territoire, surtout les campagnes.",
+    "source_series": 2
+  },
+  {
+    "question": "Quel est le rôle de la police ?",
+    "choices": [
+      "A. Assurer la sécurité des personnes et des biens, principalement en zone urbaine",
+      "B. Rendre la justice et prononcer les peines",
+      "C. Gérer les services municipaux",
+      "D. S'occuper uniquement de la circulation routière"
+    ],
+    "correct": 0,
+    "explanation": "Assurer la sécurité des personnes et des biens, principalement en zone urbaine. La police nationale dépend du ministère de l'Intérieur et intervient surtout dans les villes. Elle est différente de la justice, qui juge et prononce les peines.",
+    "source_series": 2
+  },
+  {
+    "question": "Qu'est-ce qu'une infraction ?",
+    "choices": [
+      "A. Une simple incivilité sans conséquence",
+      "B. Un acte ou comportement interdit par la loi et puni par celle-ci",
+      "C. Une opinion contraire à celle du gouvernement",
+      "D. Un désaccord entre deux personnes"
+    ],
+    "correct": 1,
+    "explanation": "Un acte ou comportement interdit par la loi et puni par celle-ci. Le droit pénal distingue trois catégories d'infractions selon leur gravité: les contraventions, les délits et les crimes. Chacune est punie par des peines différentes.",
+    "source_series": 2
+  },
+  {
+    "question": "Comment peut-on réduire ses déchets ?",
+    "choices": [
+      "A. En les brûlant dans son jardin",
+      "B. En les jetant dans la nature",
+      "C. En triant, recyclant, réutilisant et évitant le gaspillage",
+      "D. En les abandonnant sur la voie publique"
+    ],
+    "correct": 2,
+    "explanation": "En triant, recyclant, réutilisant et évitant le gaspillage. Le tri des emballages, du verre et du papier est organisé par les communes. Brûler ses déchets à l'air libre est d'ailleurs interdit et puni d'une amende.",
+    "source_series": 2
+  },
+  {
+    "question": "Déposer une machine à laver cassée sur le trottoir est :",
+    "choices": [
+      "A. Autorisé si elle est encore utilisable",
+      "B. Interdit, c'est un dépôt sauvage puni par la loi",
+      "C. Permis le dimanche",
+      "D. Toléré dans les grandes villes"
+    ],
+    "correct": 1,
+    "explanation": "Interdit, c'est un dépôt sauvage puni par la loi. Pour les objets encombrants, il faut utiliser la déchetterie ou le service de collecte de la mairie. Un dépôt sauvage expose à une amende qui peut être lourde.",
+    "source_series": 2
+  },
+  {
+    "question": "En quoi consiste la traite des êtres humains ?",
+    "choices": [
+      "A. Le commerce légal de produits artisanaux",
+      "B. Une forme ancienne de troc disparue",
+      "C. Une transaction commerciale entre deux pays",
+      "D. Recruter, transporter ou exploiter des personnes, notamment par la contrainte"
+    ],
+    "correct": 3,
+    "explanation": "Recruter, transporter ou exploiter des personnes, notamment par la contrainte. Cette exploitation est sévèrement punie par le Code pénal. Une victime étrangère qui porte plainte peut recevoir un titre de séjour et une protection.",
+    "source_series": 2
+  },
+  {
+    "question": "Que doit faire une victime de violences ?",
+    "choices": [
+      "A. Porter plainte auprès de la police ou de la gendarmerie",
+      "B. Régler le problème elle-même",
+      "C. Garder le silence pour éviter les représailles",
+      "D. Attendre que la situation s'améliore d'elle-même"
+    ],
+    "correct": 0,
+    "explanation": "Porter plainte auprès de la police ou de la gendarmerie. La plainte peut être déposée dans n'importe quel commissariat ou gendarmerie. Le 17 permet d'alerter la police et le 3919 aide les femmes victimes de violences.",
+    "source_series": 2
+  },
+  {
+    "question": "Quelle est l'infraction la plus grave ?",
+    "choices": [
+      "A. La contravention",
+      "B. L'incivilité",
+      "C. Le délit",
+      "D. Le crime"
+    ],
+    "correct": 3,
+    "explanation": "Le crime. Le meurtre ou le vol à main armée sont des crimes. Ils sont jugés par la cour d'assises et punis des peines les plus lourdes, jusqu'à la perpétuité.",
+    "source_series": 2
+  },
+  {
+    "question": "En quelle année a débuté la Révolution française ?",
+    "choices": [
+      "A. 1715",
+      "B. 1789",
+      "C. 1804",
+      "D. 1848"
+    ],
+    "correct": 1,
+    "explanation": "1789. La prise de la Bastille, le 14 juillet 1789, marque le début de la Révolution, qui met fin à la monarchie absolue et aux privilèges.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui était Napoléon Ier ?",
+    "choices": [
+      "A. Le premier roi de France",
+      "B. Un président de la République française",
+      "C. Empereur des Français à partir de 1804",
+      "D. Un général de la Première Guerre mondiale"
+    ],
+    "correct": 2,
+    "explanation": "Empereur des Français à partir de 1804. Napoléon Bonaparte s'est fait sacrer empereur en 1804. Il a laissé des institutions durables, comme le Code civil, les lycées et la Légion d'honneur.",
+    "source_series": 2
+  },
+  {
+    "question": "Lequel de ces personnages historiques est français ?",
+    "choices": [
+      "A. Winston Churchill",
+      "B. Jeanne d'Arc",
+      "C. Christophe Colomb",
+      "D. George Washington"
+    ],
+    "correct": 1,
+    "explanation": "Jeanne d'Arc. Héroïne de la guerre de Cent Ans, Jeanne d'Arc a combattu les Anglais au XVe siècle et a contribué au sacre du roi Charles VII à Reims.",
+    "source_series": 2
+  },
+  {
+    "question": "Dans quelle République est-on aujourd'hui ?",
+    "choices": [
+      "A. La IIIe République",
+      "B. La IVe République",
+      "C. La Ve République",
+      "D. La VIe République"
+    ],
+    "correct": 2,
+    "explanation": "La Ve République. Fondée en 1958 par le général de Gaulle, la Ve République a renforcé le rôle du Président, élu au suffrage universel direct depuis le référendum de 1962.",
+    "source_series": 2
+  },
+  {
+    "question": "Qu'est-ce que la Shoah ?",
+    "choices": [
+      "A. Une bataille de la Première Guerre mondiale",
+      "B. L'extermination systématique des Juifs par l'Allemagne nazie pendant la Seconde Guerre mondiale",
+      "C. Un traité de paix signé en 1945",
+      "D. Une révolte populaire au XIXe siècle"
+    ],
+    "correct": 1,
+    "explanation": "L'extermination systématique des Juifs par l'Allemagne nazie pendant la Seconde Guerre mondiale. Six millions de Juifs d'Europe ont été assassinés pendant la Seconde Guerre mondiale. En France, le régime de Vichy a participé à leur déportation.",
+    "source_series": 2
+  },
+  {
+    "question": "Quel pays ou région du monde a été colonisé par la France ?",
+    "choices": [
+      "A. L'Inde dans son intégralité",
+      "B. Le Brésil",
+      "C. L'Algérie",
+      "D. L'Australie"
+    ],
+    "correct": 2,
+    "explanation": "L'Algérie. L'Algérie a été conquise par la France à partir de 1830. Elle est devenue indépendante en 1962, après huit ans de guerre.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui a rendu l’école gratuite, laïque et obligatoire ?",
+    "choices": [
+      "A. Napoléon Ier",
+      "B. Jules Ferry",
+      "C. Charles de Gaulle",
+      "D. Victor Hugo"
+    ],
+    "correct": 1,
+    "explanation": "Jules Ferry. Ministre de l'Instruction publique, Jules Ferry a fait voter les lois de 1881 et 1882: école gratuite, instruction obligatoire et enseignement public laïque.",
+    "source_series": 2
+  },
+  {
+    "question": "Quand a eu lieu la Seconde Guerre mondiale ?",
+    "choices": [
+      "A. De 1914 à 1918",
+      "B. De 1870 à 1871",
+      "C. De 1939 à 1945",
+      "D. De 1945 à 1950"
+    ],
+    "correct": 2,
+    "explanation": "De 1939 à 1945. Ce conflit mondial commence avec l'invasion de la Pologne en septembre 1939. La France est occupée de 1940 à 1944, puis libérée avec l'aide des Alliés.",
+    "source_series": 2
+  },
+  {
+    "question": "Quand a eu lieu la Première Guerre mondiale ?",
+    "choices": [
+      "A. De 1914 à 1918",
+      "B. De 1870 à 1871",
+      "C. De 1900 à 1905",
+      "D. De 1939 à 1945"
+    ],
+    "correct": 0,
+    "explanation": "De 1914 à 1918. Déclenchée à l'été 1914 après l'assassinat de l'archiduc François-Ferdinand, cette guerre a fait environ 1,4 million de morts français.",
+    "source_series": 2
+  },
+  {
+    "question": "En quelle année a été créée la Communauté Économique Européenne (CEE) ?",
+    "choices": [
+      "A. 1945",
+      "B. 1951",
+      "C. 1957",
+      "D. 1992"
+    ],
+    "correct": 2,
+    "explanation": "1957. Le traité de Rome, signé en 1957 par six pays dont la France, crée la CEE. Elle est devenue l'Union européenne avec le traité de Maastricht, signé en 1992.",
+    "source_series": 2
+  },
+  {
+    "question": "Le 11 novembre est un jour férié. À quoi correspond cette date ?",
+    "choices": [
+      "A. À l'armistice de la Première Guerre mondiale (1918)",
+      "B. À la fin de la Seconde Guerre mondiale",
+      "C. À la prise de la Bastille",
+      "D. À la proclamation de la République"
+    ],
+    "correct": 0,
+    "explanation": "À l'armistice de la Première Guerre mondiale (1918). Signé près de Compiègne, l'armistice du 11 novembre 1918 met fin aux combats. Chaque année, ce jour férié rend hommage aux soldats morts pour la France.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui a été le premier Président élu sous la Ve République ?",
+    "choices": [
+      "A. François Mitterrand",
+      "B. Georges Pompidou",
+      "C. Valéry Giscard d'Estaing",
+      "D. Charles de Gaulle"
+    ],
+    "correct": 3,
+    "explanation": "Charles de Gaulle. Charles de Gaulle a été élu en décembre 1958, peu après l'adoption de la nouvelle Constitution. Il a dirigé le pays jusqu'à sa démission en 1969.",
+    "source_series": 2
+  },
+  {
+    "question": "En quelle année l'esclavage a-t-il été aboli définitivement en France ?",
+    "choices": [
+      "A. 1789",
+      "B. 1815",
+      "C. 1848",
+      "D. 1905"
+    ],
+    "correct": 2,
+    "explanation": "1848. Le décret du 27 avril 1848, porté par Victor Schoelcher, abolit définitivement l'esclavage. Une première abolition, votée en 1794, avait été annulée en 1802.",
+    "source_series": 2
+  },
+  {
+    "question": "Depuis quelle année l'école publique est-elle gratuite ?",
+    "choices": [
+      "A. 1789",
+      "B. 1881",
+      "C. 1905",
+      "D. 1958"
+    ],
+    "correct": 1,
+    "explanation": "1881. La gratuité de l'école primaire publique date de la loi Ferry de juin 1881. Aujourd'hui, l'instruction est obligatoire pour tous les enfants de 3 à 16 ans.",
+    "source_series": 2
+  },
+  {
+    "question": "Combien y a-t-il eu de républiques en France ?",
+    "choices": [
+      "A. Trois",
+      "B. Quatre",
+      "C. Cinq",
+      "D. Six"
+    ],
+    "correct": 2,
+    "explanation": "Cinq. La Ire République a été proclamée en 1792. Les suivantes datent de 1848, 1870, 1946 et 1958, l'actuelle étant la Ve République.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui était le roi de France au moment de la Révolution française ?",
+    "choices": [
+      "A. Louis XIV",
+      "B. Louis XV",
+      "C. Louis XVI",
+      "D. Henri IV"
+    ],
+    "correct": 2,
+    "explanation": "Louis XVI. Roi depuis 1774, Louis XVI a perdu son trône pendant la Révolution. Condamné pour trahison, il a été guillotiné en janvier 1793.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui a fondé la Ve République ?",
+    "choices": [
+      "A. Charles de Gaulle",
+      "B. François Mitterrand",
+      "C. Georges Pompidou",
+      "D. Vincent Auriol"
+    ],
+    "correct": 0,
+    "explanation": "Charles de Gaulle. Rappelé au pouvoir pendant la crise de mai 1958, le général de Gaulle a fait adopter par référendum la Constitution qui crée la Ve République.",
+    "source_series": 2
+  },
+  {
+    "question": "Que célèbre-t-on le 14 juillet ?",
+    "choices": [
+      "A. La fin de la Seconde Guerre mondiale",
+      "B. La fête nationale française, en commémoration de la prise de la Bastille",
+      "C. L'armistice de 1918",
+      "D. La proclamation de la Ve République"
+    ],
+    "correct": 1,
+    "explanation": "La fête nationale française, en commémoration de la prise de la Bastille. Jour férié depuis 1880, le 14 juillet rappelle la prise de la Bastille en 1789 et la fête de la Fédération de 1790. Un défilé militaire a lieu à Paris.",
+    "source_series": 2
+  },
+  {
+    "question": "Quelle guerre a eu lieu entre 1914 et 1918 ?",
+    "choices": [
+      "A. La guerre franco-prussienne",
+      "B. La Seconde Guerre mondiale",
+      "C. La guerre d'Algérie",
+      "D. La Première Guerre mondiale"
+    ],
+    "correct": 3,
+    "explanation": "La Première Guerre mondiale. Appelée aussi la Grande Guerre, elle a opposé la France et ses alliés à l'Allemagne. La bataille de Verdun, en 1916, en est un symbole.",
+    "source_series": 2
+  },
+  {
+    "question": "Pourquoi l’année 1958 est importante pour la France ?",
+    "choices": [
+      "A. C'est l'année de la fondation de la Ve République",
+      "B. C'est l'année de la Libération de Paris",
+      "C. C'est l'année de l'abolition de la peine de mort",
+      "D. C'est l'année de la signature du traité de Rome"
+    ],
+    "correct": 0,
+    "explanation": "C'est l'année de la fondation de la Ve République. La Constitution de la Ve République a été approuvée par référendum le 28 septembre 1958, puis promulguée le 4 octobre 1958, dans le contexte de la guerre d'Algérie.",
+    "source_series": 2
+  },
+  {
+    "question": "Quel fleuve coule en France ?",
+    "choices": [
+      "A. Le Danube",
+      "B. Le Tage",
+      "C. La Seine",
+      "D. Le Pô"
+    ],
+    "correct": 2,
+    "explanation": "La Seine. La Seine traverse Paris et se jette dans la Manche au Havre. Les autres grands fleuves français sont la Loire, le Rhône, la Garonne et le Rhin.",
+    "source_series": 2
+  },
+  {
+    "question": "Quelle ville est française ?",
+    "choices": [
+      "A. Bruxelles",
+      "B. Lyon",
+      "C. Genève",
+      "D. Barcelone"
+    ],
+    "correct": 1,
+    "explanation": "Lyon. Située au confluent du Rhône et de la Saône, Lyon est la troisième ville de France par sa population, après Paris et Marseille.",
+    "source_series": 2
+  },
+  {
+    "question": "Quel océan borde la côte ouest française ?",
+    "choices": [
+      "A. L'océan Indien",
+      "B. L'océan Pacifique",
+      "C. L'océan Arctique",
+      "D. L'océan Atlantique"
+    ],
+    "correct": 3,
+    "explanation": "L'océan Atlantique. L'océan Atlantique baigne la façade ouest, de la Bretagne au Pays basque. Bordeaux, Nantes et La Rochelle se trouvent près de ce littoral.",
+    "source_series": 2
+  },
+  {
+    "question": "Qu'est-ce que Paris ?",
+    "choices": [
+      "A. Une région française",
+      "B. La capitale de la France",
+      "C. Un département d'outre-mer",
+      "D. Une ville frontalière"
+    ],
+    "correct": 1,
+    "explanation": "La capitale de la France. Siège de la présidence, du gouvernement et du Parlement, Paris est aussi la ville la plus peuplée de France, avec plus de deux millions d'habitants.",
+    "source_series": 2
+  },
+  {
+    "question": "Quelle est la capitale de la France ?",
+    "choices": [
+      "A. Lyon",
+      "B. Marseille",
+      "C. Paris",
+      "D. Bordeaux"
+    ],
+    "correct": 2,
+    "explanation": "Paris. Capitale depuis des siècles, Paris est traversée par la Seine. On y trouve des monuments célèbres comme la tour Eiffel, le Louvre et Notre-Dame.",
+    "source_series": 2
+  },
+  {
+    "question": "Sur quel continent se situe la France métropolitaine ?",
+    "choices": [
+      "A. L'Asie",
+      "B. L'Afrique",
+      "C. L'Amérique",
+      "D. L'Europe"
+    ],
+    "correct": 3,
+    "explanation": "L'Europe. La France métropolitaine se trouve en Europe de l'Ouest. Elle a des frontières avec huit pays, dont l'Espagne, l'Italie, l'Allemagne et la Belgique.",
+    "source_series": 2
+  },
+  {
+    "question": "Quelle île est un département d'outre-mer français ?",
+    "choices": [
+      "A. La Corse",
+      "B. La Réunion",
+      "C. Madagascar",
+      "D. La Sicile"
+    ],
+    "correct": 1,
+    "explanation": "La Réunion. Située dans l'océan Indien, La Réunion est un département et une région d'outre-mer. Ses habitants sont français et votent à toutes les élections.",
+    "source_series": 2
+  },
+  {
+    "question": "Combien y a-t-il de régions en France métropolitaine ?",
+    "choices": [
+      "A. 13",
+      "B. 18",
+      "C. 22",
+      "D. 26"
+    ],
+    "correct": 0,
+    "explanation": "13. Depuis la réforme territoriale de 2016, la métropole compte 13 régions. Avec les régions d'outre-mer, la France en compte 18 au total.",
+    "source_series": 2
+  },
+  {
+    "question": "Quelle ville est un grand port maritime ?",
+    "choices": [
+      "A. Toulouse",
+      "B. Strasbourg",
+      "C. Marseille",
+      "D. Dijon"
+    ],
+    "correct": 2,
+    "explanation": "Marseille. Fondée par des Grecs il y a environ 2 600 ans, Marseille abrite le premier port maritime de France, ouvert sur la mer Méditerranée.",
+    "source_series": 2
+  },
+  {
+    "question": "Quelle est la mer au sud de la France métropolitaine ?",
+    "choices": [
+      "A. La mer du Nord",
+      "B. La mer Baltique",
+      "C. La mer Noire",
+      "D. La mer Méditerranée"
+    ],
+    "correct": 3,
+    "explanation": "La mer Méditerranée. La Méditerranée borde le sud du pays, de Perpignan à Menton. Marseille, Toulon et Montpellier comptent parmi les grandes villes proches de ce littoral.",
+    "source_series": 2
+  },
+  {
+    "question": "Quelle ville est située au bord de la mer Méditerranée ?",
+    "choices": [
+      "A. Lille",
+      "B. Nice",
+      "C. Brest",
+      "D. Rennes"
+    ],
+    "correct": 1,
+    "explanation": "Nice. Surnommée la capitale de la Côte d'Azur, Nice se trouve au bord de la Méditerranée. Sa promenade des Anglais est mondialement connue.",
+    "source_series": 2
+  },
+  {
+    "question": "Où se situe la Corse ?",
+    "choices": [
+      "A. Dans la mer Méditerranée",
+      "B. Dans l'océan Atlantique",
+      "C. Dans la Manche",
+      "D. Dans la mer du Nord"
+    ],
+    "correct": 0,
+    "explanation": "Dans la mer Méditerranée. Appelée l'île de Beauté, la Corse se situe en Méditerranée, au sud-est de la métropole. Napoléon Bonaparte y est né, à Ajaccio, en 1769.",
+    "source_series": 2
+  },
+  {
+    "question": "Quelle chaîne de montagnes est située entre la France et l'Italie ?",
+    "choices": [
+      "A. Les Pyrénées",
+      "B. Les Vosges",
+      "C. Les Alpes",
+      "D. Le Jura"
+    ],
+    "correct": 2,
+    "explanation": "Les Alpes. Les Alpes séparent la France de l'Italie et abritent le mont Blanc, plus haut sommet d'Europe occidentale avec environ 4 800 mètres.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui était Molière ?",
+    "choices": [
+      "A. Un dramaturge français du XVIIe siècle",
+      "B. Un peintre impressionniste",
+      "C. Un compositeur baroque",
+      "D. Un philosophe des Lumières"
+    ],
+    "correct": 0,
+    "explanation": "Un dramaturge français du XVIIe siècle. Auteur du Malade imaginaire et de L'Avare, Molière a vécu au temps de Louis XIV. Le français est souvent appelé la langue de Molière.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui était Charles Baudelaire ?",
+    "choices": [
+      "A. Un peintre français",
+      "B. Un homme politique français",
+      "C. Un poète français du XIXe siècle",
+      "D. Un explorateur français"
+    ],
+    "correct": 2,
+    "explanation": "Un poète français du XIXe siècle. Charles Baudelaire est l'auteur des Fleurs du mal, recueil publié en 1857. Son œuvre a profondément marqué la poésie moderne.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui était George Sand ?",
+    "choices": [
+      "A. Une chanteuse d'opéra",
+      "B. Une romancière française du XIXe siècle",
+      "C. Une danseuse étoile",
+      "D. Une scientifique française"
+    ],
+    "correct": 1,
+    "explanation": "Une romancière française du XIXe siècle. George Sand est le pseudonyme d'Aurore Dupin, auteure de La Mare au diable. Elle a défendu l'indépendance des femmes à une époque où elles avaient peu de droits.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui était Simone de Beauvoir ?",
+    "choices": [
+      "A. Une écrivaine et philosophe française",
+      "B. Une chanteuse française",
+      "C. Une reine de France",
+      "D. Une peintre impressionniste"
+    ],
+    "correct": 0,
+    "explanation": "Une écrivaine et philosophe française. Auteure du Deuxième Sexe, publié en 1949, Simone de Beauvoir est une figure majeure du féminisme et de la philosophie du XXe siècle.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui était Albert Camus ?",
+    "choices": [
+      "A. Un peintre cubiste français",
+      "B. Un homme politique français",
+      "C. Un compositeur français",
+      "D. Un écrivain et philosophe français, prix Nobel de littérature"
+    ],
+    "correct": 3,
+    "explanation": "Un écrivain et philosophe français, prix Nobel de littérature. Auteur de L'Étranger et de La Peste, Albert Camus a reçu le prix Nobel de littérature en 1957.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui était Paul Cézanne ?",
+    "choices": [
+      "A. Un écrivain français",
+      "B. Un peintre français post-impressionniste",
+      "C. Un sculpteur italien",
+      "D. Un architecte français"
+    ],
+    "correct": 1,
+    "explanation": "Un peintre français post-impressionniste. Né à Aix-en-Provence, Cézanne a peint de nombreuses fois la montagne Sainte-Victoire. Son travail a ouvert la voie à la peinture moderne.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui était Marc Chagall ?",
+    "choices": [
+      "A. Un écrivain russe",
+      "B. Un musicien français",
+      "C. Un peintre d'origine russe naturalisé français",
+      "D. Un cinéaste français"
+    ],
+    "correct": 2,
+    "explanation": "Un peintre d'origine russe naturalisé français. Né dans l'Empire russe, Chagall est devenu français en 1937. On lui doit notamment le plafond de l'Opéra Garnier, à Paris.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui était Joséphine Baker ?",
+    "choices": [
+      "A. Une romancière française",
+      "B. Une danseuse et chanteuse franco-américaine, résistante, entrée au Panthéon",
+      "C. Une reine consort de France",
+      "D. Une scientifique américaine"
+    ],
+    "correct": 1,
+    "explanation": "Une danseuse et chanteuse franco-américaine, résistante, entrée au Panthéon. Vedette du music-hall à Paris puis résistante pendant la Seconde Guerre mondiale, Joséphine Baker est entrée au Panthéon en novembre 2021.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui était une chanteuse française célèbre ?",
+    "choices": [
+      "A. Marie Curie",
+      "B. Édith Piaf",
+      "C. Coco Chanel",
+      "D. Brigitte Bardot"
+    ],
+    "correct": 1,
+    "explanation": "Édith Piaf. Surnommée la Môme, Édith Piaf a marqué la chanson française avec des titres comme La Vie en rose ou Non, je ne regrette rien.",
+    "source_series": 2
+  },
+  {
+    "question": "Qu'est-ce que le Louvre ?",
+    "choices": [
+      "A. Un musée à Paris",
+      "B. Un opéra à Lyon",
+      "C. Un château dans la Loire",
+      "D. Une cathédrale gothique"
+    ],
+    "correct": 0,
+    "explanation": "Un musée à Paris. Ancien palais des rois de France, le Louvre est devenu un musée en 1793. Il abrite La Joconde, peinte par Léonard de Vinci.",
+    "source_series": 2
+  },
+  {
+    "question": "Qui était Jean de la Fontaine ?",
+    "choices": [
+      "A. Un peintre français du XVIIIe siècle",
+      "B. Un roi de France",
+      "C. Un poète et fabuliste français du XVIIe siècle",
+      "D. Un compositeur baroque français"
+    ],
+    "correct": 2,
+    "explanation": "Un poète et fabuliste français du XVIIe siècle. Ses Fables, comme Le Corbeau et le Renard ou La Cigale et la Fourmi, sont encore apprises à l'école. Il vivait sous le règne de Louis XIV.",
+    "source_series": 2
+  },
+  {
+    "question": "Quel écrivain est français ?",
+    "choices": [
+      "A. William Shakespeare",
+      "B. Cervantès",
+      "C. Goethe",
+      "D. Victor Hugo"
+    ],
+    "correct": 3,
+    "explanation": "Victor Hugo. Victor Hugo, auteur des Misérables et de Notre-Dame de Paris, est l'un des plus grands écrivains du XIXe siècle. Il repose au Panthéon.",
+    "source_series": 2
+  },
+  {
+    "question": "Dans quelle ville se trouve la tour Eiffel ?",
+    "choices": [
+      "A. Paris",
+      "B. Lyon",
+      "C. Marseille",
+      "D. Bordeaux"
+    ],
+    "correct": 0,
+    "explanation": "Paris. Construite par Gustave Eiffel pour l'Exposition universelle de 1889, la tour Eiffel est devenue le symbole de Paris et de la France.",
+    "source_series": 2
+  },
+  {
+    "question": "Quand célèbre-t-on Noël ?",
+    "choices": [
+      "A. Le 1er janvier",
+      "B. Le 25 décembre",
+      "C. Le 14 juillet",
+      "D. Le 1er novembre"
+    ],
+    "correct": 1,
+    "explanation": "Le 25 décembre. Fête d'origine chrétienne, Noël est un jour férié en France. Les familles se réunissent souvent autour d'un repas et s'offrent des cadeaux.",
+    "source_series": 2
+  },
+  {
+    "question": "Quel numéro d'urgence permet d'appeler le SAMU ?",
+    "choices": [
+      "A. Le 17",
+      "B. Le 18",
+      "C. Le 15",
+      "D. Le 112"
+    ],
+    "correct": 2,
+    "explanation": "Le 15. Pour une urgence médicale grave, le SAMU répond au 15. L'appel est gratuit, possible 24h/24, et un médecin régulateur évalue la situation.",
+    "source_series": 3
+  },
+  {
+    "question": "Quel numéro d'urgence permet d'appeler les pompiers ?",
+    "choices": [
+      "A. Le 18",
+      "B. Le 15",
+      "C. Le 17",
+      "D. Le 114"
+    ],
+    "correct": 0,
+    "explanation": "Le 18. En composant le 18, gratuit et disponible jour et nuit, on alerte les sapeurs-pompiers pour un incendie, un accident ou un blessé.",
+    "source_series": 3
+  },
+  {
+    "question": "Après avoir obtenu le permis de conduire, que faut-il faire pour pouvoir conduire sa voiture ?",
+    "choices": [
+      "A. Il suffit d'avoir son permis de conduire en poche",
+      "B. Il faut avoir une carte grise et une assurance pour le véhicule",
+      "C. Il faut s'inscrire au registre national des conducteurs",
+      "D. Il faut passer un examen médical chaque année"
+    ],
+    "correct": 1,
+    "explanation": "Il faut avoir une carte grise et une assurance pour le véhicule. Tout véhicule doit être immatriculé (carte grise) et couvert au minimum par une assurance de responsabilité civile. Conduire sans assurance est un délit.",
+    "source_series": 3
+  },
+  {
+    "question": "À quelles conditions un mariage est-il reconnu juridiquement ?",
+    "choices": [
+      "A. Lorsqu'il est célébré uniquement à l'église ou dans un lieu de culte",
+      "B. Lorsque les deux époux signent un contrat devant un notaire",
+      "C. Lorsqu'il est célébré en mairie par un officier d'état civil",
+      "D. Lorsqu'il est annoncé publiquement par les familles des époux"
+    ],
+    "correct": 2,
+    "explanation": "Lorsqu'il est célébré en mairie par un officier d'état civil. Seul le mariage civil, célébré en mairie, a une valeur légale en France. Une cérémonie religieuse ne peut avoir lieu qu'après le passage devant le maire.",
+    "source_series": 3
+  },
+  {
+    "question": "Quand faut-il déclarer son enfant au service d'état civil de la mairie ?",
+    "choices": [
+      "A. Dans les 5 jours qui suivent la naissance",
+      "B. Dans le mois qui suit la naissance",
+      "C. Dans les 24 heures suivant la naissance",
+      "D. Avant le premier anniversaire de l'enfant"
+    ],
+    "correct": 0,
+    "explanation": "Dans les 5 jours qui suivent la naissance. Cette déclaration à l'état civil doit être faite dans les 5 jours suivant la naissance. Au-delà, seule une décision de justice permet d'inscrire l'enfant.",
+    "source_series": 3
+  },
+  {
+    "question": "Le travail non déclaré est :",
+    "choices": [
+      "A. Autorisé pour les petits travaux occasionnels",
+      "B. Toléré dans certains secteurs comme l'aide à domicile",
+      "C. Permis si l'employeur paie en espèces",
+      "D. Interdit par la loi et passible de sanctions pénales"
+    ],
+    "correct": 3,
+    "explanation": "Interdit par la loi et passible de sanctions pénales. Appelé travail dissimulé, il prive le salarié de retraite, de chômage et de couverture maladie. L'employeur risque jusqu'à 3 ans de prison et 45 000 euros d'amende.",
+    "source_series": 3
+  },
+  {
+    "question": "Que doit faire un employeur pour fixer un salaire ?",
+    "choices": [
+      "A. Respecter le SMIC et les minima de la convention collective applicable",
+      "B. Demander l'autorisation de l'inspection du travail",
+      "C. Aligner le salaire sur la moyenne de l'entreprise",
+      "D. Suivre uniquement les recommandations du syndicat patronal"
+    ],
+    "correct": 0,
+    "explanation": "Respecter le SMIC et les minima de la convention collective applicable. Aucun salarié ne peut être payé en dessous du SMIC horaire. Les conventions collectives prévoient souvent des minima plus élevés selon les métiers.",
+    "source_series": 3
+  },
+  {
+    "question": "Qu'est-ce que le SMIC ?",
+    "choices": [
+      "A. Le salaire moyen versé dans une entreprise",
+      "B. Le salaire minimum interprofessionnel de croissance",
+      "C. Le salaire maximum imposé par l'État aux employeurs",
+      "D. Le salaire négocié dans chaque convention collective"
+    ],
+    "correct": 1,
+    "explanation": "Le salaire minimum interprofessionnel de croissance. Créé en 1970, le SMIC garantit un salaire horaire minimum à tous les salariés. Son montant est revalorisé au moins chaque 1er janvier.",
+    "source_series": 3
+  },
+  {
+    "question": "Quelle est la première démarche à réaliser pour chercher un emploi ?",
+    "choices": [
+      "A. Déposer son CV directement chez les employeurs",
+      "B. Demander une aide financière à la mairie",
+      "C. Passer un examen auprès du ministère du Travail",
+      "D. S'inscrire à France Travail (anciennement Pôle emploi)"
+    ],
+    "correct": 3,
+    "explanation": "S'inscrire à France Travail (anciennement Pôle emploi). France Travail a remplacé Pôle emploi le 1er janvier 2024. L'inscription donne accès aux offres, à un accompagnement personnalisé et aux allocations chômage.",
+    "source_series": 3
+  },
+  {
+    "question": "Quelle est la durée légale du temps de travail par semaine ?",
+    "choices": [
+      "A. 39 heures",
+      "B. 35 heures",
+      "C. 40 heures",
+      "D. 37 heures"
+    ],
+    "correct": 1,
+    "explanation": "35 heures. Instaurée par les lois Aubry de 1998 et 2000, la durée légale est de 35 heures. Les heures effectuées au-delà sont des heures supplémentaires majorées.",
+    "source_series": 3
+  },
+  {
+    "question": "Qui est aidé par France Travail ?",
+    "choices": [
+      "A. Uniquement les personnes de nationalité française",
+      "B. Uniquement les jeunes de moins de 26 ans",
+      "C. Les demandeurs d'emploi et les employeurs qui recrutent",
+      "D. Uniquement les bénéficiaires du RSA"
+    ],
+    "correct": 2,
+    "explanation": "Les demandeurs d'emploi et les employeurs qui recrutent. Ce service public accompagne gratuitement les personnes en recherche d'emploi, verse les allocations chômage et aide aussi les entreprises à recruter.",
+    "source_series": 3
+  },
+  {
+    "question": "Une personne étrangère en situation régulière peut créer son entreprise :",
+    "choices": [
+      "A. Dans les mêmes conditions qu'un citoyen français",
+      "B. Seulement après dix ans de résidence en France",
+      "C. Uniquement si elle a la nationalité d'un pays de l'Union européenne",
+      "D. Uniquement avec l'accord du préfet de département"
+    ],
+    "correct": 0,
+    "explanation": "Dans les mêmes conditions qu'un citoyen français. La liberté d'entreprendre vaut sans condition de nationalité. Le titre de séjour doit simplement autoriser l'exercice d'une activité non salariée en France.",
+    "source_series": 3
+  },
+  {
+    "question": "Une femme peut-elle créer son entreprise ?",
+    "choices": [
+      "A. Non, seulement avec l'autorisation de son mari",
+      "B. Oui, dans les mêmes conditions qu'un homme",
+      "C. Oui, mais uniquement dans certains secteurs d'activité",
+      "D. Non, sauf si elle est célibataire"
+    ],
+    "correct": 1,
+    "explanation": "Oui, dans les mêmes conditions qu'un homme. L'égalité entre les femmes et les hommes est un principe constitutionnel. Depuis 1965, une femme mariée peut travailler et gérer son argent sans l'autorisation de son mari.",
+    "source_series": 3
+  },
+  {
+    "question": "À partir de quel âge un mineur peut-il travailler ?",
+    "choices": [
+      "A. À partir de 18 ans uniquement",
+      "B. À partir de 15 ans sans condition",
+      "C. À partir de 14 ans sans aucune restriction",
+      "D. À partir de 16 ans, avec des exceptions encadrées dès 14 ans"
+    ],
+    "correct": 3,
+    "explanation": "À partir de 16 ans, avec des exceptions encadrées dès 14 ans. Le Code du travail fixe l'âge minimum à 16 ans, fin de la scolarité obligatoire. Des travaux légers sont possibles dès 14 ans pendant les vacances scolaires.",
+    "source_series": 3
+  },
+  {
+    "question": "Auprès de quel organisme faut-il demander le remboursement des frais de santé ?",
+    "choices": [
+      "A. Auprès de France Travail",
+      "B. Auprès de l'Assurance Maladie (CPAM)",
+      "C. Auprès de la Caisse d'allocations familiales (CAF)",
+      "D. Auprès du ministère de la Santé"
+    ],
+    "correct": 1,
+    "explanation": "Auprès de l'Assurance Maladie (CPAM). La caisse primaire d'assurance maladie (CPAM) gère les remboursements de soins dans chaque département. La carte Vitale transmet automatiquement les feuilles de soins.",
+    "source_series": 3
+  },
+  {
+    "question": "Qu’est-ce qu’un numéro d’urgence ?",
+    "choices": [
+      "A. Un numéro payant accessible uniquement en journée",
+      "B. Un numéro réservé aux professionnels de santé",
+      "C. Un numéro gratuit, accessible 24h/24, pour joindre les secours",
+      "D. Un numéro à composer uniquement en cas d'incendie"
+    ],
+    "correct": 2,
+    "explanation": "Un numéro gratuit, accessible 24h/24, pour joindre les secours. Les numéros d'urgence (15, 17, 18, 112) sont gratuits et joignables 24h/24, même depuis un téléphone portable sans crédit.",
+    "source_series": 3
+  },
+  {
+    "question": "Concernant l'accès aux soins, quelle proposition est correcte ?",
+    "choices": [
+      "A. Toute personne résidant en France a droit à une protection maladie",
+      "B. Seuls les citoyens français peuvent se faire soigner à l'hôpital",
+      "C. Les soins ne sont accessibles qu'aux personnes ayant un emploi",
+      "D. L'accès aux soins est réservé aux personnes de plus de 18 ans"
+    ],
+    "correct": 0,
+    "explanation": "Toute personne résidant en France a droit à une protection maladie. Depuis 2016, la protection universelle maladie (PUMa) garantit une prise en charge des frais de santé à toute personne résidant en France de façon stable et régulière.",
+    "source_series": 3
+  },
+  {
+    "question": "En cas de problème de santé non urgent, à qui faut-il s’adresser en premier ?",
+    "choices": [
+      "A. Aux urgences de l'hôpital le plus proche",
+      "B. Au SAMU en composant le 15",
+      "C. Au directeur de la CPAM",
+      "D. À son médecin traitant"
+    ],
+    "correct": 3,
+    "explanation": "À son médecin traitant. Le parcours de soins coordonnés, créé en 2004, prévoit de consulter d'abord son médecin traitant. Ce passage assure aussi un meilleur remboursement par l'Assurance Maladie.",
+    "source_series": 3
+  },
+  {
+    "question": "Quel est le rôle du médecin traitant ?",
+    "choices": [
+      "A. Assurer le suivi médical et orienter dans le parcours de soins",
+      "B. Délivrer les ordonnances sans consultation préalable",
+      "C. Fixer les tarifs des soins remboursés par l'Assurance Maladie",
+      "D. Décider du montant des remboursements de la mutuelle"
+    ],
+    "correct": 0,
+    "explanation": "Assurer le suivi médical et orienter dans le parcours de soins. Choisi par le patient et déclaré à l'Assurance Maladie, le médecin traitant connaît son dossier médical et l'oriente vers les spécialistes si nécessaire.",
+    "source_series": 3
+  },
+  {
+    "question": "Dans quelles situations doit-on se rendre aux urgences de l'hôpital ?",
+    "choices": [
+      "A. Pour renouveler une ordonnance",
+      "B. Pour un simple rhume ou un mal de tête léger",
+      "C. Pour obtenir un certificat médical de routine",
+      "D. En cas d'urgence vitale ou de blessure grave"
+    ],
+    "correct": 3,
+    "explanation": "En cas d'urgence vitale ou de blessure grave. Les services d'urgences sont réservés aux situations graves. Pour un problème léger, mieux vaut consulter son médecin traitant ou appeler le 15 pour un avis.",
+    "source_series": 3
+  },
+  {
+    "question": "Quel est l’objectif des vaccinations obligatoires ?",
+    "choices": [
+      "A. Protéger contre certaines maladies graves et éviter leur propagation",
+      "B. Permettre à l'État de contrôler la santé des citoyens",
+      "C. Réduire les dépenses de l'Assurance Maladie",
+      "D. Réserver l'accès à l'école aux enfants en bonne santé"
+    ],
+    "correct": 0,
+    "explanation": "Protéger contre certaines maladies graves et éviter leur propagation. Depuis 2018, onze vaccins sont obligatoires pour les jeunes enfants. La vaccination protège la personne vaccinée et empêche les maladies de circuler dans la population.",
+    "source_series": 3
+  },
+  {
+    "question": "À quoi sert la carte Vitale ?",
+    "choices": [
+      "A. À voter aux élections municipales",
+      "B. À justifier de son identité auprès de la police",
+      "C. À attester de ses droits à l'Assurance Maladie et faciliter le remboursement des soins",
+      "D. À obtenir une carte de mutuelle santé automatiquement"
+    ],
+    "correct": 2,
+    "explanation": "À attester de ses droits à l'Assurance Maladie et faciliter le remboursement des soins. Cette carte à puce contient les informations d'assuré social. Présentée chez le médecin ou en pharmacie, elle déclenche un remboursement automatique en quelques jours.",
+    "source_series": 3
+  },
+  {
+    "question": "À quoi sert une mutuelle santé ?",
+    "choices": [
+      "A. À compléter les remboursements de l'Assurance Maladie",
+      "B. À remplacer la Sécurité sociale",
+      "C. À payer le salaire pendant un arrêt maladie",
+      "D. À financer les vacances en cas de longue maladie"
+    ],
+    "correct": 0,
+    "explanation": "À compléter les remboursements de l'Assurance Maladie. L'Assurance Maladie ne rembourse qu'une partie des frais de santé. La mutuelle complète ce remboursement. Depuis 2016, les employeurs privés doivent en proposer une à leurs salariés.",
+    "source_series": 3
+  },
+  {
+    "question": "Jusqu'à quel âge l'école est-elle obligatoire ?",
+    "choices": [
+      "A. Jusqu'à 18 ans",
+      "B. Jusqu'à 14 ans",
+      "C. Jusqu'à 15 ans",
+      "D. Jusqu'à 16 ans"
+    ],
+    "correct": 3,
+    "explanation": "Jusqu'à 16 ans. L'instruction est obligatoire de 3 à 16 ans depuis 2019. De 16 à 18 ans s'ajoute une obligation de formation (études, apprentissage ou emploi).",
+    "source_series": 3
+  },
+  {
+    "question": "L'autorité parentale prévoit l'obligation :",
+    "choices": [
+      "A. De protéger, d'éduquer et d'entretenir l'enfant",
+      "B. De choisir un seul parent comme responsable légal",
+      "C. De faire baptiser l'enfant avant l'âge de 7 ans",
+      "D. De confier l'enfant à un tuteur jusqu'à ses 18 ans"
+    ],
+    "correct": 0,
+    "explanation": "De protéger, d'éduquer et d'entretenir l'enfant. Le Code civil confie aux deux parents la protection, l'éducation et l'entretien de l'enfant jusqu'à sa majorité, dans le respect de sa personne.",
+    "source_series": 3
+  },
+  {
+    "question": "Pour qui l'école est-elle obligatoire ?",
+    "choices": [
+      "A. Uniquement pour les enfants de nationalité française",
+      "B. Pour tous les enfants résidant en France, quelle que soit leur nationalité",
+      "C. Uniquement pour les enfants de familles non scolarisées à domicile",
+      "D. Uniquement pour les enfants nés sur le territoire français"
+    ],
+    "correct": 1,
+    "explanation": "Pour tous les enfants résidant en France, quelle que soit leur nationalité. Français ou étrangers, tous les enfants vivant en France sont soumis à l'obligation d'instruction de 3 à 16 ans. La nationalité ne compte pas.",
+    "source_series": 3
+  },
+  {
+    "question": "Quel diplôme obtient-on à la fin du lycée ?",
+    "choices": [
+      "A. Le brevet des collèges",
+      "B. Le CAP (certificat d'aptitude professionnelle)",
+      "C. Le baccalauréat",
+      "D. La licence"
+    ],
+    "correct": 2,
+    "explanation": "Le baccalauréat. Créé sous Napoléon en 1808, le baccalauréat termine les études secondaires et ouvre les portes de l'enseignement supérieur.",
+    "source_series": 3
+  },
+  {
+    "question": "Dans quels établissements scolaires vont les élèves après l'école élémentaire ?",
+    "choices": [
+      "A. Au lycée",
+      "B. À l'université",
+      "C. À l'école maternelle",
+      "D. Au collège"
+    ],
+    "correct": 3,
+    "explanation": "Au collège. Après l'école élémentaire, les élèves entrent au collège pour quatre ans, de la sixième à la troisième. Le brevet conclut cette étape.",
+    "source_series": 3
+  },
+  {
+    "question": "Pour qui l'école est elle obligatoire ?",
+    "choices": [
+      "A. Pour tous les enfants vivant en France, sans distinction de nationalité",
+      "B. Uniquement pour les enfants nés de parents français",
+      "C. Uniquement pour les enfants ayant un titre de séjour",
+      "D. Uniquement pour les enfants des familles imposables"
+    ],
+    "correct": 0,
+    "explanation": "Pour tous les enfants vivant en France, sans distinction de nationalité. Tout enfant présent sur le territoire doit être scolarisé, même si ses parents n'ont pas de titre de séjour. L'école publique est gratuite.",
+    "source_series": 3
+  },
+  {
+    "question": "Un enfant inscrit à l'école :",
+    "choices": [
+      "A. Doit obligatoirement suivre des cours de religion",
+      "B. Bénéficie d'un enseignement gratuit et laïque",
+      "C. Peut être renvoyé sans motif par le directeur",
+      "D. Doit payer chaque année une cotisation à l'État"
+    ],
+    "correct": 1,
+    "explanation": "Bénéficie d'un enseignement gratuit et laïque. Les lois Jules Ferry de 1881 et 1882 ont rendu l'école publique gratuite et laïque. Aucun enseignement religieux n'y est imposé aux élèves.",
+    "source_series": 3
+  },
+  {
+    "question": "Les enfants qui ne parlent pas français :",
+    "choices": [
+      "A. Ne peuvent pas être scolarisés en France",
+      "B. Sont scolarisés dans des écoles privées payantes uniquement",
+      "C. Doivent attendre de parler français pour s'inscrire à l'école",
+      "D. Sont accueillis à l'école et bénéficient d'un soutien spécifique pour apprendre le français"
+    ],
+    "correct": 3,
+    "explanation": "Sont accueillis à l'école et bénéficient d'un soutien spécifique pour apprendre le français. L'école accueille les élèves qui ne parlent pas encore français dans des dispositifs dédiés, appelés UPE2A, pour apprendre la langue rapidement.",
+    "source_series": 3
+  },
+  {
+    "question": "Au travail, votre supérieur hiérarchique vous humilie publiquement et vous met à l'écart de manière répétée depuis plusieurs mois. Que pouvez-vous faire ?",
+    "choices": [
+      "A. Vous taire car votre supérieur a tous les droits",
+      "B. Démissionner immédiatement sans aucune indemnité",
+      "C. Signaler la situation au CSE, au médecin du travail ou à l'inspection du travail",
+      "D. Régler le conflit vous-même en répondant par des insultes"
+    ],
+    "correct": 2,
+    "explanation": "Signaler la situation au CSE, au médecin du travail ou à l'inspection du travail. Interdit par le Code du travail, le harcèlement moral est aussi un délit pénal. La victime peut ensuite saisir le conseil de prud'hommes pour obtenir réparation.",
+    "source_series": 3
+  },
+  {
+    "question": "Sophie subit des avances sexuelles répétées de la part de son chef malgré ses refus clairs. Que prévoit la loi française ?",
+    "choices": [
+      "A. Sophie doit changer d'entreprise sans rien dire",
+      "B. Le harcèlement sexuel est un délit puni par la loi et l'employeur a l'obligation d'agir pour le faire cesser",
+      "C. Seules les violences physiques sont punies au travail",
+      "D. Sophie doit prouver qu'elle a refusé par écrit pendant un an"
+    ],
+    "correct": 1,
+    "explanation": "Le harcèlement sexuel est un délit puni par la loi et l'employeur a l'obligation d'agir pour le faire cesser. Le Code pénal punit le harcèlement sexuel de prison et d'amende. L'employeur a l'obligation légale de prévenir ces agissements et de protéger les victimes.",
+    "source_series": 3
+  },
+  {
+    "question": "Lors d'un entretien d'embauche, un recruteur refuse votre candidature en disant ouvertement que votre origine étrangère pose problème. Que dit la loi ?",
+    "choices": [
+      "A. Le recruteur est libre de choisir selon ses préférences personnelles",
+      "B. La discrimination à l'embauche est interdite et constitue un délit puni de 3 ans de prison et 45 000 euros d'amende",
+      "C. Seule la discrimination liée au sexe est interdite à l'embauche",
+      "D. Vous pouvez seulement vous plaindre auprès de l'entreprise concernée"
+    ],
+    "correct": 1,
+    "explanation": "La discrimination à l'embauche est interdite et constitue un délit puni de 3 ans de prison et 45 000 euros d'amende. Refuser une embauche en raison de l'origine est un délit prévu par le Code pénal. La victime peut porter plainte et saisir gratuitement le Défenseur des droits.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous êtes enceinte et un employeur refuse de vous embaucher en invoquant explicitement votre grossesse. Quel est votre recours ?",
+    "choices": [
+      "A. Aucun recours, l'employeur choisit librement ses salariés",
+      "B. Vous devez attendre la fin de votre grossesse pour postuler à nouveau",
+      "C. Saisir le Défenseur des droits ou le conseil de prud'hommes car ce refus est une discrimination interdite par la loi",
+      "D. Porter plainte uniquement auprès de la mairie de votre commune"
+    ],
+    "correct": 2,
+    "explanation": "Saisir le Défenseur des droits ou le conseil de prud'hommes car ce refus est une discrimination interdite par la loi. La grossesse figure parmi les critères de discrimination interdits par la loi. Une candidate n'est d'ailleurs pas obligée de révéler sa grossesse lors d'un entretien.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous travaillez depuis un an en CDI et souhaitez prendre vos congés cet été. Votre employeur refuse sans motif sérieux. Que dit la loi ?",
+    "choices": [
+      "A. Les congés payés sont un droit légal de 5 semaines par an et ne peuvent être refusés sans motif valable",
+      "B. L'employeur peut refuser librement tous les congés payés de ses salariés",
+      "C. Les congés payés ne sont accordés qu'après 5 ans d'ancienneté",
+      "D. Le salarié doit racheter ses jours de congés à l'employeur"
+    ],
+    "correct": 0,
+    "explanation": "Les congés payés sont un droit légal de 5 semaines par an et ne peuvent être refusés sans motif valable. Instaurés en 1936 par le Front populaire, les congés payés atteignent cinq semaines depuis 1982. Un refus de l'employeur doit reposer sur un motif sérieux.",
+    "source_series": 3
+  },
+  {
+    "question": "Claire attend son premier enfant et travaille en CDI. À combien de semaines de congé maternité a-t-elle droit pour cette première naissance ?",
+    "choices": [
+      "A. 8 semaines au total",
+      "B. 10 semaines au total",
+      "C. 16 semaines au total (6 avant et 10 après l'accouchement)",
+      "D. 26 semaines au total comme pour un troisième enfant"
+    ],
+    "correct": 2,
+    "explanation": "16 semaines au total (6 avant et 10 après l'accouchement). Pour un premier ou un deuxième enfant, le congé maternité dure 16 semaines. Il passe à 26 semaines à partir du troisième enfant.",
+    "source_series": 3
+  },
+  {
+    "question": "Karim vient d'avoir un enfant et souhaite prendre son congé paternité. Quelle est la durée prévue par la loi française depuis 2021 ?",
+    "choices": [
+      "A. 3 jours seulement, accordés par l'employeur",
+      "B. 25 jours calendaires de congé paternité, en plus des 3 jours d'absence rémunérés par l'employeur",
+      "C. 1 mois entier de congé sans solde uniquement",
+      "D. Aucun congé paternité n'existe en France"
+    ],
+    "correct": 1,
+    "explanation": "25 jours calendaires de congé paternité, en plus des 3 jours d'absence rémunérés par l'employeur. Depuis le 1er juillet 2021, le congé paternité est passé de 11 à 25 jours calendaires. Une partie doit être prise juste après la naissance.",
+    "source_series": 3
+  },
+  {
+    "question": "Vos collègues décident de faire grève pour protester contre une baisse des salaires et vous y participez. Votre employeur menace de vous licencier. Que dit la loi ?",
+    "choices": [
+      "A. L'employeur peut licencier librement les salariés grévistes",
+      "B. La grève est interdite dans le secteur privé en France",
+      "C. Le droit de grève est garanti par la Constitution et un salarié ne peut être sanctionné pour avoir fait grève de manière licite",
+      "D. La grève n'est autorisée qu'avec l'accord écrit préalable de l'employeur"
+    ],
+    "correct": 2,
+    "explanation": "Le droit de grève est garanti par la Constitution et un salarié ne peut être sanctionné pour avoir fait grève de manière licite. Reconnu par le préambule de la Constitution de 1946, le droit de grève protège les salariés: un licenciement pour grève licite est nul.",
+    "source_series": 3
+  },
+  {
+    "question": "Marc, salarié dans une entreprise, souhaite adhérer à un syndicat avec plusieurs collègues. Son employeur s'y oppose et menace de représailles. Que prévoit la loi ?",
+    "choices": [
+      "A. L'employeur peut interdire l'adhésion à un syndicat dans son entreprise",
+      "B. La liberté syndicale est garantie : tout salarié peut librement créer ou adhérer à un syndicat et l'employeur ne peut s'y opposer",
+      "C. Seuls les salariés de plus de 10 ans d'ancienneté peuvent se syndiquer",
+      "D. Il faut l'autorisation préalable du préfet pour adhérer à un syndicat"
+    ],
+    "correct": 1,
+    "explanation": "La liberté syndicale est garantie : tout salarié peut librement créer ou adhérer à un syndicat et l'employeur ne peut s'y opposer. Autorisés depuis la loi Waldeck-Rousseau de 1884, les syndicats sont libres. Le préambule de la Constitution de 1946 garantit cette liberté à chaque salarié.",
+    "source_series": 3
+  },
+  {
+    "question": "Un employeur vous propose de travailler sans contrat ni déclaration, en vous payant en espèces. Quelles peuvent être les conséquences personnelles pour vous ?",
+    "choices": [
+      "A. Aucune conséquence, seul l'employeur est sanctionné",
+      "B. Vous touchez plus d'argent et conservez tous vos droits sociaux",
+      "C. Vous ne cotisez pas et perdez vos droits à la retraite, à l'assurance chômage et à la couverture maladie, en plus de sanctions possibles",
+      "D. Vous bénéficiez automatiquement d'une retraite versée par l'État"
+    ],
+    "correct": 2,
+    "explanation": "Vous ne cotisez pas et perdez vos droits à la retraite, à l'assurance chômage et à la couverture maladie, en plus de sanctions possibles. Sans déclaration, aucune cotisation sociale n'est versée. Le salarié perd ses droits à la retraite, au chômage et à l'indemnisation en cas d'accident du travail.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous êtes employé en contrat à durée déterminée à temps plein. Votre employeur vous verse un salaire inférieur au SMIC en disant que cela ne s'applique pas aux CDD. Que dit la loi ?",
+    "choices": [
+      "A. Le SMIC ne s'applique qu'aux salariés en CDI à temps plein",
+      "B. Le SMIC s'impose à tous les employeurs, quel que soit le type de contrat (CDI, CDD, intérim, temps partiel)",
+      "C. Le SMIC est seulement une recommandation pour les employeurs",
+      "D. Le SMIC ne s'applique qu'aux salariés français de naissance"
+    ],
+    "correct": 1,
+    "explanation": "Le SMIC s'impose à tous les employeurs, quel que soit le type de contrat (CDI, CDD, intérim, temps partiel). Le SMIC est une règle d'ordre public qui s'impose pour tout contrat de travail. À temps partiel, il s'applique au prorata des heures effectuées.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous travaillez 42 heures par semaine dans votre entreprise, soit 7 heures de plus que la durée légale. Comment ces heures doivent-elles être rémunérées ?",
+    "choices": [
+      "A. Au même tarif que les heures normales, sans majoration",
+      "B. Elles ne sont pas payées car elles dépassent la durée légale",
+      "C. Comme des heures supplémentaires, avec une majoration de salaire (25 % pour les 8 premières, 50 % au-delà)",
+      "D. Uniquement sous forme de jours de repos, sans contrepartie financière possible"
+    ],
+    "correct": 2,
+    "explanation": "Comme des heures supplémentaires, avec une majoration de salaire (25 % pour les 8 premières, 50 % au-delà). Au-delà de 35 heures, chaque heure travaillée est une heure supplémentaire. Le Code du travail impose une majoration de salaire ou un repos compensateur équivalent.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous êtes témoin dans le bus de propos racistes tenus par un passager contre une famille d'origine étrangère. Que devez-vous savoir ?",
+    "choices": [
+      "A. Il s'agit d'une simple opinion protégée par la liberté d'expression",
+      "B. C'est un délit pénal et vous pouvez alerter en appelant le 17 ou témoigner auprès du Défenseur des droits",
+      "C. Seule la famille concernée peut porter plainte, un témoin ne peut rien faire",
+      "D. Il faut d'abord obtenir l'accord du chauffeur avant de signaler les faits"
+    ],
+    "correct": 1,
+    "explanation": "C'est un délit pénal et vous pouvez alerter en appelant le 17 ou témoigner auprès du Défenseur des droits. Les injures racistes publiques sont des délits, pas des opinions protégées. Le témoignage d'un passager peut aider la famille victime à faire valoir ses droits.",
+    "source_series": 3
+  },
+  {
+    "question": "Une propriétaire refuse de louer son appartement à un candidat uniquement à cause de son nom à consonance étrangère. Que prévoit la loi française ?",
+    "choices": [
+      "A. Le propriétaire est libre de choisir son locataire sans justification",
+      "B. Il s'agit d'une discrimination punie de 3 ans de prison et 45 000 euros d'amende ; un recours auprès du Défenseur des droits est possible",
+      "C. Le candidat peut seulement demander un remboursement des frais de dossier",
+      "D. C'est légal si le propriétaire invoque des raisons de tranquillité du voisinage"
+    ],
+    "correct": 1,
+    "explanation": "Il s'agit d'une discrimination punie de 3 ans de prison et 45 000 euros d'amende ; un recours auprès du Défenseur des droits est possible. La loi pénale punit le refus de louer fondé sur l'origine ou le nom. Le Défenseur des droits peut être saisi gratuitement par la victime.",
+    "source_series": 3
+  },
+  {
+    "question": "Un commerçant refuse de servir une cliente parce qu'elle porte un voile religieux. Que dit la loi française ?",
+    "choices": [
+      "A. Le commerçant est dans son droit car son magasin est un espace privé",
+      "B. C'est autorisé si le commerçant invoque la laïcité de son établissement",
+      "C. Refuser un service en raison de la religion ou de l'origine est une discrimination interdite et punie par la loi",
+      "D. La cliente doit retirer son voile pour être servie dans tout commerce"
+    ],
+    "correct": 2,
+    "explanation": "Refuser un service en raison de la religion ou de l'origine est une discrimination interdite et punie par la loi. La laïcité s'impose à l'État et aux services publics, pas aux clients des commerces. Refuser de servir une personne pour sa religion constitue un délit.",
+    "source_series": 3
+  },
+  {
+    "question": "Dans une entreprise, une femme constate qu'elle est payée moins qu'un collègue masculin occupant exactement le même poste avec la même expérience. Que peut-elle faire ?",
+    "choices": [
+      "A. Rien, l'employeur fixe librement les salaires de chacun",
+      "B. Seulement négocier individuellement une augmentation avec son supérieur",
+      "C. L'égalité salariale entre femmes et hommes est obligatoire ; elle peut saisir les prud'hommes ou le Défenseur des droits",
+      "D. Demander à changer de poste pour obtenir un meilleur salaire"
+    ],
+    "correct": 2,
+    "explanation": "L'égalité salariale entre femmes et hommes est obligatoire ; elle peut saisir les prud'hommes ou le Défenseur des droits. Le principe « à travail égal, salaire égal » est inscrit dans la loi depuis 1972. L'employeur doit pouvoir justifier objectivement tout écart de rémunération.",
+    "source_series": 3
+  },
+  {
+    "question": "Un candidat en fauteuil roulant postule à un emploi de bureau ; l'employeur le refuse en disant que les locaux ne sont pas adaptés. Que prévoit la loi ?",
+    "choices": [
+      "A. L'employeur a raison, il n'a aucune obligation envers les personnes handicapées",
+      "B. Le handicap est un motif de discrimination interdit et l'employeur doit prévoir des aménagements raisonnables du poste et de l'accès",
+      "C. Le candidat doit financer lui-même les aménagements nécessaires",
+      "D. Seules les entreprises publiques sont concernées par l'accessibilité"
+    ],
+    "correct": 1,
+    "explanation": "Le handicap est un motif de discrimination interdit et l'employeur doit prévoir des aménagements raisonnables du poste et de l'accès. La loi du 11 février 2005 sur l'égalité des chances oblige l'employeur à rechercher des aménagements raisonnables avant d'écarter un candidat handicapé.",
+    "source_series": 3
+  },
+  {
+    "question": "Un salarié est licencié après que son employeur a appris son homosexualité. Que dit la loi française ?",
+    "choices": [
+      "A. L'employeur peut licencier librement pour ce motif",
+      "B. Le licenciement est valable s'il est justifié par l'ambiance dans l'équipe",
+      "C. L'orientation sexuelle est un motif de discrimination interdit ; le licenciement est nul et passible de sanctions pénales",
+      "D. Le salarié doit accepter une mutation pour conserver son emploi"
+    ],
+    "correct": 2,
+    "explanation": "L'orientation sexuelle est un motif de discrimination interdit ; le licenciement est nul et passible de sanctions pénales. Le Code du travail interdit tout licenciement fondé sur l'orientation sexuelle. Le juge prononce la nullité du licenciement et l'employeur encourt des sanctions pénales.",
+    "source_series": 3
+  },
+  {
+    "question": "Deux hommes souhaitent se marier civilement à la mairie de leur commune. Que prévoit le droit français ?",
+    "choices": [
+      "A. Le mariage est réservé à un homme et une femme en France",
+      "B. Ils peuvent seulement conclure un PACS, pas un mariage",
+      "C. Le mariage entre deux personnes du même sexe est autorisé en France depuis la loi Taubira de 2013",
+      "D. Le maire peut refuser de les marier selon ses convictions personnelles"
+    ],
+    "correct": 2,
+    "explanation": "Le mariage entre deux personnes du même sexe est autorisé en France depuis la loi Taubira de 2013. La loi Taubira du 17 mai 2013 ouvre le mariage et l'adoption aux couples de même sexe. Un maire ne peut pas refuser de célébrer ce mariage.",
+    "source_series": 3
+  },
+  {
+    "question": "Votre enfant subit régulièrement au collège des moqueries homophobes de la part de plusieurs camarades. Quelle est la bonne démarche ?",
+    "choices": [
+      "A. Lui demander de ne rien dire pour éviter d'aggraver la situation",
+      "B. Signaler les faits à l'établissement scolaire et appeler le 3018, numéro national contre le harcèlement scolaire",
+      "C. Changer immédiatement votre enfant d'établissement sans rien signaler",
+      "D. Régler directement la situation avec les parents des autres élèves"
+    ],
+    "correct": 1,
+    "explanation": "Signaler les faits à l'établissement scolaire et appeler le 3018, numéro national contre le harcèlement scolaire. Le harcèlement scolaire est un délit depuis la loi du 2 mars 2022. Le 3018, gratuit et confidentiel, conseille les familles et fait le lien avec l'école.",
+    "source_series": 3
+  },
+  {
+    "question": "Une femme reçoit sur les réseaux sociaux des insultes sexistes et des menaces répétées à cause de son sexe. Que peut-elle faire ?",
+    "choices": [
+      "A. Rien, ce qui est publié en ligne n'est pas concerné par la loi",
+      "B. Seulement bloquer les auteurs sur la plateforme",
+      "C. Les injures sexistes et le cyberharcèlement sont des délits pénaux ; elle peut porter plainte au commissariat ou à la gendarmerie",
+      "D. Demander à la plateforme de fermer son propre compte"
+    ],
+    "correct": 2,
+    "explanation": "Les injures sexistes et le cyberharcèlement sont des délits pénaux ; elle peut porter plainte au commissariat ou à la gendarmerie. L'injure sexiste et le cyberharcèlement sont punis par le Code pénal, même sur Internet. Les contenus peuvent aussi être signalés sur la plateforme publique Pharos.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous estimez avoir été personnellement victime d'une discrimination dans l'accès à un service public à cause de votre origine. Vers quelle institution pouvez-vous vous tourner gratuitement ?",
+    "choices": [
+      "A. Le Conseil constitutionnel, qui examine les plaintes individuelles",
+      "B. Le Défenseur des droits, autorité indépendante que l'on peut saisir gratuitement",
+      "C. Uniquement un avocat privé, à vos frais",
+      "D. Le préfet de votre département, seul compétent pour les discriminations"
+    ],
+    "correct": 1,
+    "explanation": "Le Défenseur des droits, autorité indépendante que l'on peut saisir gratuitement. Institué par la révision constitutionnelle de 2008, le Défenseur des droits est une autorité indépendante. Chacun peut le saisir gratuitement, en ligne ou par courrier.",
+    "source_series": 3
+  },
+  {
+    "question": "Vos parents souhaitent vous marier de force avec une personne que vous ne connaissez pas. Que dit la loi française ?",
+    "choices": [
+      "A. Le mariage forcé est autorisé si les parents sont d'accord",
+      "B. Le mariage forcé est un délit pénal puni de 3 ans de prison et 45 000 euros d'amende",
+      "C. Le mariage forcé est toléré pour des raisons culturelles",
+      "D. Le mariage forcé est une simple infraction administrative"
+    ],
+    "correct": 1,
+    "explanation": "Le mariage forcé est un délit pénal puni de 3 ans de prison et 45 000 euros d'amende. Le Code civil exige le consentement libre des deux époux. Un mariage forcé peut être annulé par la justice et ses auteurs sont poursuivis pénalement.",
+    "source_series": 3
+  },
+  {
+    "question": "Une amie vous confie qu'elle est régulièrement frappée par son conjoint. Quel numéro lui conseillez-vous d'appeler ?",
+    "choices": [
+      "A. Le 3919, Violences Femmes Info, gratuit et anonyme, 24h/24",
+      "B. Le 15, qui est le SAMU",
+      "C. Le 112, uniquement pour les touristes",
+      "D. Le 3614, service payant d'information juridique"
+    ],
+    "correct": 0,
+    "explanation": "Le 3919, Violences Femmes Info, gratuit et anonyme, 24h/24. Anonyme et gratuit, le 3919 écoute et oriente les femmes victimes de violences. Il ne laisse pas de trace sur les factures téléphoniques. En cas de danger immédiat, il faut composer le 17.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous êtes témoin de violences exercées sur un enfant dans la rue. Quel numéro devez-vous composer pour signaler la situation ?",
+    "choices": [
+      "A. Le 3919",
+      "B. Le 15",
+      "C. Le 119, Allô enfance en danger, gratuit",
+      "D. Le 3977"
+    ],
+    "correct": 2,
+    "explanation": "Le 119, Allô enfance en danger, gratuit. Ouvert 24h/24 et gratuit, le 119 recueille les signalements d'enfants en danger. Signaler ces violences est un devoir pour tout citoyen, même simple témoin.",
+    "source_series": 3
+  },
+  {
+    "question": "Après un divorce, qui exerce l'autorité parentale sur les enfants en France ?",
+    "choices": [
+      "A. Uniquement la mère, automatiquement",
+      "B. Uniquement le père, automatiquement",
+      "C. Les deux parents conjointement par défaut, sauf décision contraire du juge",
+      "D. Le parent qui a le revenu le plus élevé"
+    ],
+    "correct": 2,
+    "explanation": "Les deux parents conjointement par défaut, sauf décision contraire du juge. Même séparés, les parents exercent en commun l'autorité parentale et prennent ensemble les décisions importantes. Seul le juge aux affaires familiales peut en décider autrement.",
+    "source_series": 3
+  },
+  {
+    "question": "Camille et Alex souhaitent se pacser en France. Où peuvent-ils conclure leur PACS ?",
+    "choices": [
+      "A. Uniquement à l'église",
+      "B. À la mairie de leur commune ou chez un notaire",
+      "C. Uniquement au tribunal de grande instance",
+      "D. Auprès du Président de la République"
+    ],
+    "correct": 1,
+    "explanation": "À la mairie de leur commune ou chez un notaire. Créé en 1999, le PACS s'enregistre depuis novembre 2017 devant l'officier d'état civil de la mairie ou chez un notaire, et non plus au tribunal.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous voulez vous marier en France. Quel est l'âge minimum légal pour les deux conjoints ?",
+    "choices": [
+      "A. 15 ans",
+      "B. 16 ans avec autorisation parentale",
+      "C. 18 ans pour les deux conjoints",
+      "D. 21 ans"
+    ],
+    "correct": 2,
+    "explanation": "18 ans pour les deux conjoints. Depuis une loi de 2006, l'âge minimum du mariage est fixé à 18 ans pour les deux époux. Auparavant, les femmes pouvaient se marier dès 15 ans.",
+    "source_series": 3
+  },
+  {
+    "question": "Marie et Pierre vivent en couple sans être mariés et viennent d'avoir un enfant. Comment Pierre peut-il reconnaître officiellement son enfant ?",
+    "choices": [
+      "A. Aucune démarche n'est nécessaire si l'enfant porte son nom",
+      "B. En faisant une reconnaissance de paternité à la mairie, devant l'officier d'état civil, avant ou après la naissance",
+      "C. En demandant une décision au juge aux affaires familiales",
+      "D. En signant un acte privé entre les deux parents, sans formalité administrative"
+    ],
+    "correct": 1,
+    "explanation": "En faisant une reconnaissance de paternité à la mairie, devant l'officier d'état civil, avant ou après la naissance. Hors mariage, la filiation paternelle n'est pas automatique. La reconnaissance, gratuite, se fait devant l'officier d'état civil, avant la naissance, au moment de la déclaration ou plus tard.",
+    "source_series": 3
+  },
+  {
+    "question": "Un couple souhaite divorcer et est d'accord sur tous les points. Quelle procédure simplifiée peuvent-ils utiliser depuis 2017 ?",
+    "choices": [
+      "A. Le divorce par consentement mutuel par acte d'avocat enregistré chez un notaire, sans juge",
+      "B. Le divorce est toujours prononcé par un juge, sans exception",
+      "C. Le divorce est interdit s'il y a accord",
+      "D. Le divorce ne peut être prononcé que par le maire"
+    ],
+    "correct": 0,
+    "explanation": "Le divorce par consentement mutuel par acte d'avocat enregistré chez un notaire, sans juge. Depuis le 1er janvier 2017, ce divorce se conclut par un acte signé avec l'avocat de chaque époux, puis déposé chez un notaire, sans passer devant le juge.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous voulez porter plainte après le vol de votre vélo. Que devez-vous faire ?",
+    "choices": [
+      "A. Vous ne pouvez porter plainte qu'au commissariat de votre domicile",
+      "B. Vous pouvez vous rendre dans n'importe quel commissariat ou gendarmerie, ou faire une pré-plainte en ligne",
+      "C. Vous devez payer des frais de dossier pour déposer une plainte",
+      "D. Seul un avocat peut déposer une plainte en votre nom"
+    ],
+    "correct": 1,
+    "explanation": "Vous pouvez vous rendre dans n'importe quel commissariat ou gendarmerie, ou faire une pré-plainte en ligne. Les services de police et de gendarmerie ont l'obligation d'enregistrer toute plainte, où que l'infraction ait eu lieu. La démarche est entièrement gratuite.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous recevez une convocation pour siéger comme juré d'assises. Que se passe-t-il si vous refusez de vous y rendre sans motif valable ?",
+    "choices": [
+      "A. Rien, c'est une démarche facultative",
+      "B. Vous risquez une amende pouvant aller jusqu'à environ 3 800 euros",
+      "C. Vous perdez votre droit de vote pendant cinq ans",
+      "D. Vous êtes automatiquement remplacé sans conséquence"
+    ],
+    "correct": 1,
+    "explanation": "Vous risquez une amende pouvant aller jusqu'à environ 3 800 euros. Participer à un jury d'assises est un devoir civique pour les citoyens tirés au sort sur les listes électorales. L'absence injustifiée est punie d'une amende de 3 750 euros.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous êtes placé en garde à vue par la police. À partir de quel moment pouvez-vous demander l'assistance d'un avocat ?",
+    "choices": [
+      "A. Seulement après 24 heures de garde à vue",
+      "B. Uniquement si vous êtes mis en examen",
+      "C. Dès la première heure de la garde à vue",
+      "D. Seulement devant le juge d'instruction"
+    ],
+    "correct": 2,
+    "explanation": "Dès la première heure de la garde à vue. Depuis la loi du 14 avril 2011, l'avocat peut assister la personne dès le début de la garde à vue. Elle a aussi le droit de garder le silence.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous êtes témoin d'un cambriolage en cours dans l'appartement de votre voisin. Quelle est votre obligation ?",
+    "choices": [
+      "A. Aucune, vous n'avez pas à vous en mêler",
+      "B. Vous devez intervenir physiquement pour arrêter les cambrioleurs",
+      "C. Vous devez alerter la police (17) ou les secours ; ne pas le faire peut constituer une non-assistance à personne en danger",
+      "D. Vous devez attendre le retour de votre voisin pour le prévenir"
+    ],
+    "correct": 2,
+    "explanation": "Vous devez alerter la police (17) ou les secours ; ne pas le faire peut constituer une non-assistance à personne en danger. Prévenir les secours est une obligation légale, sans se mettre soi-même en danger. Le Code pénal punit la non-assistance à personne en péril de peines de prison et d'amende.",
+    "source_series": 3
+  },
+  {
+    "question": "Une personne de votre entourage est mise en examen pour un délit. Comment doit-elle être considérée avant son jugement ?",
+    "choices": [
+      "A. Comme coupable, puisqu'elle a été mise en examen",
+      "B. Comme présumée innocente jusqu'à ce qu'elle soit jugée et condamnée",
+      "C. Comme suspecte sans aucun droit",
+      "D. Comme coupable, sauf si elle paie une caution"
+    ],
+    "correct": 1,
+    "explanation": "Comme présumée innocente jusqu'à ce qu'elle soit jugée et condamnée. La présomption d'innocence est un principe fondamental inscrit dans la Déclaration des droits de l'homme et du citoyen de 1789. Seul un tribunal peut déclarer une personne coupable.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous habitez dans un petit village rural et vous voulez signaler un délit. À quelle force de l'ordre vous adressez-vous en priorité ?",
+    "choices": [
+      "A. À la police nationale, car elle couvre tout le territoire",
+      "B. À la gendarmerie nationale, compétente en zone rurale",
+      "C. À la police municipale uniquement",
+      "D. À l'armée française"
+    ],
+    "correct": 1,
+    "explanation": "À la gendarmerie nationale, compétente en zone rurale. Force militaire, la gendarmerie nationale assure la sécurité dans les zones rurales et périurbaines, tandis que la police nationale, civile, intervient principalement dans les villes.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous êtes contrôlé par la police dans la rue et un agent vous demande votre pièce d'identité. Que devez-vous faire ?",
+    "choices": [
+      "A. Refuser, car nul ne peut vous demander vos papiers en France",
+      "B. Justifier de votre identité, le contrôle d'identité étant encadré par la loi",
+      "C. Exiger la présence d'un avocat avant toute réponse",
+      "D. Donner uniquement votre nom oralement sans présenter de document"
+    ],
+    "correct": 1,
+    "explanation": "Justifier de votre identité, le contrôle d'identité étant encadré par la loi. Les contrôles d'identité sont encadrés par le Code de procédure pénale. Sans justificatif d'identité, la police peut conduire la personne au commissariat pour une vérification limitée à quatre heures.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous devez être jugé devant un tribunal mais vos revenus sont très modestes et vous ne pouvez pas payer un avocat. Quelle solution existe ?",
+    "choices": [
+      "A. Vous devez renoncer à être défendu par un avocat",
+      "B. Vous pouvez demander l'aide juridictionnelle pour que l'État prenne en charge tout ou partie des frais d'avocat",
+      "C. Vous devez emprunter de l'argent à une banque pour payer un avocat",
+      "D. Seuls les citoyens français peuvent être défendus gratuitement"
+    ],
+    "correct": 1,
+    "explanation": "Vous pouvez demander l'aide juridictionnelle pour que l'État prenne en charge tout ou partie des frais d'avocat. L'aide juridictionnelle permet à l'État de prendre en charge les frais d'avocat des personnes aux revenus modestes, y compris étrangères en situation régulière. La demande se dépose auprès du tribunal.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous emménagez dans un appartement vide et le propriétaire vous demande un dépôt de garantie. Quel est le montant maximum qu'il peut exiger ?",
+    "choices": [
+      "A. L'équivalent d'un mois de loyer hors charges",
+      "B. L'équivalent de deux mois de loyer hors charges",
+      "C. L'équivalent de trois mois de loyer hors charges",
+      "D. Il n'y a aucune limite légale"
+    ],
+    "correct": 0,
+    "explanation": "L'équivalent d'un mois de loyer hors charges. Pour une location vide, la loi plafonne le dépôt de garantie à un mois de loyer hors charges. Pour un logement meublé, la limite est de deux mois.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous louez un appartement vide en zone tendue (par exemple à Paris) et souhaitez donner votre congé au propriétaire. Quel est le préavis légal que vous devez respecter ?",
+    "choices": [
+      "A. 15 jours",
+      "B. 1 mois",
+      "C. 2 mois",
+      "D. 3 mois"
+    ],
+    "correct": 1,
+    "explanation": "1 mois. Le préavis du locataire est normalement de trois mois pour un logement vide. La loi ALUR de 2014 l'a réduit à un mois dans les zones tendues, où la demande de logements est forte.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous venez de signer un bail et vos revenus sont modestes. Vous souhaitez obtenir une aide financière pour payer votre loyer (APL). À quel organisme devez-vous adresser votre demande ?",
+    "choices": [
+      "A. La mairie de votre commune",
+      "B. Pôle emploi",
+      "C. La CAF (Caisse d'allocations familiales)",
+      "D. La préfecture"
+    ],
+    "correct": 2,
+    "explanation": "La CAF (Caisse d'allocations familiales). Les aides au logement, dont l'APL, sont gérées et versées par la CAF, ou par la MSA pour le régime agricole. La demande s'effectue en ligne sur caf.fr.",
+    "source_series": 3
+  },
+  {
+    "question": "Votre voisin fait du bruit très fort chaque nuit après 22h et le dialogue n'a rien donné. Que pouvez-vous faire ?",
+    "choices": [
+      "A. Rien, le bruit n'est pas puni par la loi",
+      "B. Appeler la police (17) ou saisir un conciliateur de justice, car le tapage nocturne est une contravention",
+      "C. Couper l'électricité de l'immeuble",
+      "D. Entrer chez lui pour lui demander d'arrêter"
+    ],
+    "correct": 1,
+    "explanation": "Appeler la police (17) ou saisir un conciliateur de justice, car le tapage nocturne est une contravention. Le tapage nocturne constitue une contravention punie d'une amende. La police peut intervenir à toute heure, et le conciliateur de justice offre une voie de règlement amiable et gratuite.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous avez plusieurs mois de loyer en retard et votre propriétaire vous dit qu'il va vous mettre dehors la semaine prochaine, en plein mois de janvier. Que dit la loi ?",
+    "choices": [
+      "A. Le propriétaire peut expulser librement le locataire à tout moment",
+      "B. Une expulsion n'est possible qu'avec une décision de justice, et la trêve hivernale interdit les expulsions du 1er novembre au 31 mars",
+      "C. Le propriétaire peut expulser sans juge, mais seulement en hiver",
+      "D. Le propriétaire peut changer la serrure si le loyer n'est pas payé"
+    ],
+    "correct": 1,
+    "explanation": "Une expulsion n'est possible qu'avec une décision de justice, et la trêve hivernale interdit les expulsions du 1er novembre au 31 mars. Une expulsion locative exige une décision de justice exécutée par un commissaire de justice. La trêve hivernale, du 1er novembre au 31 mars, en suspend l'exécution, sauf cas particuliers.",
+    "source_series": 3
+  },
+  {
+    "question": "À la fin de votre bail, votre propriétaire vous propose de ne pas faire d'état des lieux de sortie pour gagner du temps. Que devez-vous savoir ?",
+    "choices": [
+      "A. L'état des lieux de sortie est facultatif et peut être omis sans conséquence",
+      "B. L'état des lieux de sortie est obligatoire et permet, en le comparant à celui d'entrée, de déterminer les éventuelles dégradations imputables au locataire",
+      "C. Seul l'état des lieux d'entrée est obligatoire en France",
+      "D. L'état des lieux de sortie n'est obligatoire que pour les locations meublées"
+    ],
+    "correct": 1,
+    "explanation": "L'état des lieux de sortie est obligatoire et permet, en le comparant à celui d'entrée, de déterminer les éventuelles dégradations imputables au locataire. Prévu par la loi du 6 juillet 1989, l'état des lieux de sortie protège les deux parties : comparé à celui d'entrée, il détermine les retenues possibles sur le dépôt de garantie.",
+    "source_series": 3
+  },
+  {
+    "question": "Vous avez perdu votre emploi et vous ne pouvez plus payer votre loyer. Quelle est la meilleure démarche à faire en premier ?",
+    "choices": [
+      "A. Ne rien dire et attendre que le propriétaire engage une procédure",
+      "B. Quitter le logement discrètement sans prévenir",
+      "C. Contacter rapidement votre bailleur, la CAF et l'ADIL ou les services sociaux pour trouver une solution",
+      "D. Arrêter de payer toutes les autres factures pour économiser"
+    ],
+    "correct": 2,
+    "explanation": "Contacter rapidement votre bailleur, la CAF et l'ADIL ou les services sociaux pour trouver une solution. Agir rapidement permet de négocier des délais de paiement et d'éviter la procédure d'expulsion. L'ADIL conseille gratuitement les locataires, et le fonds de solidarité pour le logement peut accorder des aides.",
+    "source_series": 3
+  },
+  {
+    "question": "Votre enfant vous confie qu'il est victime de harcèlement à l'école par d'autres élèves. Quelle démarche pouvez-vous effectuer en plus d'en informer l'établissement scolaire ?",
+    "choices": [
+      "A. Appeler le 3018, numéro national gratuit contre le harcèlement scolaire",
+      "B. Appeler directement le 17 pour porter plainte",
+      "C. Retirer immédiatement l'enfant de l'école sans prévenir",
+      "D. Demander aux autres parents d'intervenir auprès des élèves concernés"
+    ],
+    "correct": 0,
+    "explanation": "Appeler le 3018, numéro national gratuit contre le harcèlement scolaire. Gratuit et confidentiel, le 3018 est géré par l'association e-Enfance avec le soutien de l'État. Des psychologues et des juristes y conseillent les jeunes victimes et leurs parents.",
+    "source_series": 3
+  },
+  {
+    "question": "Votre fille refuse d'aller au cours de natation à l'école publique pour des raisons religieuses. Que dit la loi française ?",
+    "choices": [
+      "A. L'école doit accepter la dispense pour motif religieux",
+      "B. Les cours d'EPS, y compris la natation, sont obligatoires et la mixité s'impose",
+      "C. Seules les filles peuvent être dispensées de piscine",
+      "D. L'enfant peut être dispensé uniquement avec un certificat religieux"
+    ],
+    "correct": 1,
+    "explanation": "Les cours d'EPS, y compris la natation, sont obligatoires et la mixité s'impose. L'éducation physique, natation comprise, fait partie des enseignements obligatoires de l'école publique. Aucune dispense pour motif religieux n'est admise, seul un certificat médical peut exempter un élève.",
+    "source_series": 3
+  },
+  {
+    "question": "L'école demande aux parents d'accompagner une sortie scolaire. Une mère souhaite y participer en portant un foulard religieux visible. Que prévoit le droit français ?",
+    "choices": [
+      "A. C'est strictement interdit comme pour les élèves selon la loi de 2004",
+      "B. C'est interdit uniquement si la sortie a lieu dans un lieu de culte",
+      "C. Les parents accompagnateurs sont en principe libres de porter un signe religieux, sauf trouble à l'ordre public",
+      "D. Seuls les pères peuvent accompagner avec un signe religieux"
+    ],
+    "correct": 2,
+    "explanation": "Les parents accompagnateurs sont en principe libres de porter un signe religieux, sauf trouble à l'ordre public. N'étant pas des agents du service public, les parents accompagnateurs ne sont pas soumis à l'obligation de neutralité religieuse, position confirmée par le Conseil d'État en 2013.",
+    "source_series": 3
+  },
+  {
+    "question": "Votre enfant a manqué plusieurs jours d'école sans que vous ayez prévenu l'établissement. Quelle est votre obligation en tant que parent ?",
+    "choices": [
+      "A. Aucune obligation, l'école n'a pas à connaître les motifs d'absence",
+      "B. Justifier les absences auprès de l'école ; en cas d'absences répétées injustifiées, un signalement peut être fait",
+      "C. Justifier uniquement si l'enfant manque plus de quinze jours consécutifs",
+      "D. Payer une amende automatique à chaque absence non justifiée"
+    ],
+    "correct": 1,
+    "explanation": "Justifier les absences auprès de l'école ; en cas d'absences répétées injustifiées, un signalement peut être fait. L'assiduité scolaire découle de l'instruction obligatoire. À partir de quatre demi-journées d'absence injustifiée dans le mois, l'établissement doit signaler la situation aux services académiques.",
+    "source_series": 3
+  },
+  {
+    "question": "Votre fils de 15 ans vous annonce qu'il veut arrêter l'école pour travailler. Que dit la loi française ?",
+    "choices": [
+      "A. Il peut arrêter immédiatement car il a plus de 14 ans",
+      "B. L'instruction est obligatoire jusqu'à 16 ans et une formation est obligatoire jusqu'à 18 ans",
+      "C. Il peut arrêter s'il trouve un emploi à temps plein",
+      "D. L'instruction est obligatoire jusqu'à 18 ans sans exception"
+    ],
+    "correct": 1,
+    "explanation": "L'instruction est obligatoire jusqu'à 16 ans et une formation est obligatoire jusqu'à 18 ans. L'instruction est obligatoire de 3 à 16 ans. Depuis 2020, une obligation de formation s'applique en plus jusqu'à 18 ans : études, apprentissage, emploi ou service civique.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous êtes agent d'accueil dans une mairie. Pouvez-vous porter un signe religieux visible (croix, voile, kippa) pendant votre service ?",
+    "choices": [
+      "A. Oui, la liberté religieuse s'applique à tous les salariés sans exception",
+      "B. Non, les agents du service public sont soumis à une obligation stricte de neutralité religieuse",
+      "C. Oui, à condition que le signe reste discret et de petite taille",
+      "D. Oui, uniquement si les usagers de la mairie ne s'en plaignent pas"
+    ],
+    "correct": 1,
+    "explanation": "Non, les agents du service public sont soumis à une obligation stricte de neutralité religieuse. La laïcité impose la neutralité religieuse à tous les agents du service public pendant leur service, quel que soit leur poste. Les usagers, eux, conservent leur liberté de conscience.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous travaillez dans une entreprise privée et souhaitez porter un signe religieux visible. Que prévoit la loi ?",
+    "choices": [
+      "A. C'est strictement interdit dans toutes les entreprises privées au nom de la laïcité",
+      "B. C'est toujours autorisé, l'employeur ne peut jamais s'y opposer",
+      "C. C'est autorisé, sauf si le règlement intérieur prévoit une clause de neutralité justifiée et proportionnée",
+      "D. C'est autorisé uniquement pour les religions reconnues par l'État"
+    ],
+    "correct": 2,
+    "explanation": "C'est autorisé, sauf si le règlement intérieur prévoit une clause de neutralité justifiée et proportionnée. La laïcité ne s'applique pas aux entreprises privées. Depuis la loi Travail de 2016, le règlement intérieur peut cependant prévoir une clause de neutralité, à condition qu'elle soit justifiée et proportionnée.",
+    "source_series": 4
+  },
+  {
+    "question": "À l'hôpital public, un patient refuse d'être soigné par un médecin du sexe opposé pour motif religieux. Que doit faire l'établissement ?",
+    "choices": [
+      "A. Accepter la demande au nom de la liberté religieuse du patient",
+      "B. Refuser : l'égalité d'accès aux soins et la continuité du service public priment sur les convictions religieuses",
+      "C. Organiser systématiquement un soignant du même sexe à la demande du patient",
+      "D. Transférer le patient vers une clinique privée confessionnelle"
+    ],
+    "correct": 1,
+    "explanation": "Refuser : l'égalité d'accès aux soins et la continuité du service public priment sur les convictions religieuses. Le service public hospitalier repose sur l'égalité et la continuité des soins : les convictions religieuses d'un patient ne lui permettent pas d'exiger un soignant d'un sexe donné.",
+    "source_series": 4
+  },
+  {
+    "question": "Au travail, dans une entreprise privée, vous demandez à votre employeur un temps de pause pour prier pendant la journée. Quelle est la règle ?",
+    "choices": [
+      "A. L'employeur est obligé d'accorder ce temps de pause au nom de la liberté de culte",
+      "B. Ce n'est pas un droit opposable à l'employeur ; cela relève de l'organisation du travail et peut être refusé pour des motifs objectifs",
+      "C. L'employeur doit aménager une salle de prière dans tous les cas",
+      "D. C'est strictement interdit par la loi sur la laïcité de 1905"
+    ],
+    "correct": 1,
+    "explanation": "Ce n'est pas un droit opposable à l'employeur ; cela relève de l'organisation du travail et peut être refusé pour des motifs objectifs. Dans le secteur privé, la liberté religieuse s'exerce dans les limites du bon fonctionnement de l'entreprise. L'employeur peut donc refuser une pause de prière pour des motifs objectifs d'organisation.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous souhaitez que votre enfant soit absent de l'école publique pour une fête religieuse importante. Est-ce possible ?",
+    "choices": [
+      "A. Non, l'école publique étant laïque, aucune absence pour motif religieux n'est tolérée",
+      "B. Oui, c'est un droit automatique sans démarche particulière",
+      "C. Une absence ponctuelle est autorisée sur demande préalable et à titre exceptionnel, mais l'obligation d'instruction demeure",
+      "D. Oui, mais uniquement pour les fêtes catholiques reconnues par le calendrier scolaire"
+    ],
+    "correct": 2,
+    "explanation": "Une absence ponctuelle est autorisée sur demande préalable et à titre exceptionnel, mais l'obligation d'instruction demeure. Une circulaire de l'Éducation nationale permet des autorisations d'absence ponctuelles pour les grandes fêtes religieuses, sur demande préalable des parents et sans perturber la scolarité de l'enfant.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous voyez un commentaire raciste publié sur Facebook contre une personne en raison de son origine. Que devez-vous faire en priorité ?",
+    "choices": [
+      "A. Rien, la liberté d'expression protège tous les propos en ligne",
+      "B. Signaler le contenu sur la plateforme Pharos (internet-signalement.gouv.fr) car c'est un délit pénal",
+      "C. Répondre par un commentaire insultant à l'auteur",
+      "D. Attendre que l'auteur supprime lui-même son commentaire"
+    ],
+    "correct": 1,
+    "explanation": "Signaler le contenu sur la plateforme Pharos (internet-signalement.gouv.fr) car c'est un délit pénal. Les propos racistes ne relèvent pas de la liberté d'expression : la loi les punit pénalement. Pharos, plateforme gérée par la police et la gendarmerie, traite les signalements de contenus illicites.",
+    "source_series": 4
+  },
+  {
+    "question": "Votre carte nationale d'identité est périmée et vous voulez la refaire. Quelle est la démarche correcte ?",
+    "choices": [
+      "A. Se rendre directement à la préfecture sans rendez-vous avec une photo",
+      "B. Envoyer une lettre recommandée au ministère de l'Intérieur",
+      "C. Faire une pré-demande en ligne sur le site de l'ANTS puis prendre rendez-vous en mairie",
+      "D. Demander à un commissariat de police de délivrer le document immédiatement"
+    ],
+    "correct": 2,
+    "explanation": "Faire une pré-demande en ligne sur le site de l'ANTS puis prendre rendez-vous en mairie. Depuis 2017, les cartes d'identité se font uniquement dans les mairies équipées d'un dispositif de recueil biométrique. La pré-demande en ligne sur le site de l'ANTS accélère le passage au guichet.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous voulez organiser une manifestation pacifique dans votre ville pour défendre une cause qui vous tient à coeur. Que devez-vous faire ?",
+    "choices": [
+      "A. Rien, le droit de manifester ne nécessite aucune formalité préalable",
+      "B. Faire une déclaration préalable en préfecture au moins 3 jours avant la manifestation",
+      "C. Demander l'autorisation écrite du Président de la République",
+      "D. Obtenir l'accord de tous les commerçants du quartier concerné"
+    ],
+    "correct": 1,
+    "explanation": "Faire une déclaration préalable en préfecture au moins 3 jours avant la manifestation. Manifester sur la voie publique est une liberté fondamentale soumise à déclaration préalable, déposée en préfecture ou en mairie de trois à quinze jours avant. Une manifestation non déclarée peut être dispersée.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous êtes étranger en France et vous devez renouveler votre titre de séjour. Quelle démarche devez-vous effectuer ?",
+    "choices": [
+      "A. Vous présenter spontanément à la mairie de votre domicile",
+      "B. Effectuer la démarche en ligne sur le site de l'ANEF (administration numérique des étrangers en France) et prendre rendez-vous en préfecture",
+      "C. Envoyer votre dossier directement à l'ambassade de votre pays d'origine",
+      "D. Attendre une convocation automatique de l'Office français de l'immigration"
+    ],
+    "correct": 1,
+    "explanation": "Effectuer la démarche en ligne sur le site de l'ANEF (administration numérique des étrangers en France) et prendre rendez-vous en préfecture. Depuis 2021, la plupart des demandes et renouvellements de titres de séjour passent par la plateforme en ligne ANEF. Mieux vaut engager la démarche plusieurs mois avant l'expiration du titre.",
+    "source_series": 4
+  },
+  {
+    "question": "Vos revenus sont très faibles et vous n'avez pas les moyens de payer une mutuelle privée. Quel dispositif pouvez-vous demander à votre CPAM pour couvrir vos frais de santé ?",
+    "choices": [
+      "A. La Complémentaire santé solidaire (C2S)",
+      "B. L'Aide Médicale d'État (AME)",
+      "C. L'allocation logement",
+      "D. Le RSA santé"
+    ],
+    "correct": 0,
+    "explanation": "La Complémentaire santé solidaire (C2S). Née de la fusion de la CMU-C et de l'ACS en 2019, la Complémentaire santé solidaire couvre la part complémentaire des frais de santé, gratuitement ou contre une faible participation.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous vivez en France sans titre de séjour depuis quatre mois et vous avez besoin de soins médicaux. Quel dispositif pouvez-vous solliciter pour faire prendre en charge vos frais de santé ?",
+    "choices": [
+      "A. La carte Vitale",
+      "B. L'Aide Médicale d'État (AME)",
+      "C. La Complémentaire santé solidaire (C2S)",
+      "D. L'assurance maladie classique"
+    ],
+    "correct": 1,
+    "explanation": "L'Aide Médicale d'État (AME). L'Aide médicale d'État s'adresse aux personnes en situation irrégulière résidant en France depuis plus de trois mois, sous conditions de ressources. Le dossier se dépose auprès de la CPAM.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous tombez malade un dimanche soir et votre pharmacie habituelle est fermée. Quel numéro pouvez-vous appeler pour connaître la pharmacie de garde la plus proche ?",
+    "choices": [
+      "A. Le 15",
+      "B. Le 112",
+      "C. Le 3237",
+      "D. Le 116 117"
+    ],
+    "correct": 2,
+    "explanation": "Le 3237. Le 3237 indique les pharmacies de garde dans toute la France, par téléphone ou sur internet. En cas d'urgence vitale, il faut composer le 15 ou le 112.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous avez de la fièvre en pleine nuit un samedi, votre état n'est pas une urgence vitale mais vous voulez consulter un médecin. Quel numéro devez-vous composer pour joindre un médecin de garde ?",
+    "choices": [
+      "A. Le 15",
+      "B. Le 17",
+      "C. Le 3237",
+      "D. Le 116 117"
+    ],
+    "correct": 3,
+    "explanation": "Le 116 117. Numéro de la permanence des soins, le 116 117 oriente vers un médecin généraliste de garde le soir, le week-end et les jours fériés. Le 15 reste réservé aux urgences vitales.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous consultez directement un cardiologue sans passer par votre médecin traitant et hors parcours de soins coordonnés. Quelle est la conséquence sur le remboursement par la Sécurité sociale ?",
+    "choices": [
+      "A. Le remboursement est intégral comme d'habitude",
+      "B. Le remboursement est réduit",
+      "C. La consultation n'est plus remboursée du tout",
+      "D. Le remboursement est doublé"
+    ],
+    "correct": 1,
+    "explanation": "Le remboursement est réduit. Instauré par la réforme de l'Assurance maladie de 2004, le parcours de soins coordonnés passe par le médecin traitant. En dehors, le taux de remboursement est nettement réduit.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous êtes en arrêt maladie suite à une grippe et votre médecin vous a remis un avis d'arrêt de travail. Dans quel délai devez-vous transmettre les volets à la CPAM et à votre employeur pour éviter une réduction des indemnités ?",
+    "choices": [
+      "A. Sous 48 heures",
+      "B. Sous 15 jours",
+      "C. Sous un mois",
+      "D. Aucun délai n'est imposé"
+    ],
+    "correct": 0,
+    "explanation": "Sous 48 heures. Le Code de la sécurité sociale fixe ce délai de 48 heures. En cas d'envois tardifs répétés, la CPAM peut réduire le montant des indemnités journalières versées au salarié.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous avez 35 ans et en bonne santé, vous souhaitez donner votre sang pour aider les malades. Quelle affirmation est exacte concernant le don du sang en France ?",
+    "choices": [
+      "A. Le don est rémunéré par l'Établissement français du sang",
+      "B. Le don est gratuit, anonyme et volontaire",
+      "C. Seuls les professionnels de santé peuvent donner leur sang",
+      "D. Le don est réservé aux personnes de plus de 50 ans"
+    ],
+    "correct": 1,
+    "explanation": "Le don est gratuit, anonyme et volontaire. Organisé par l'Établissement français du sang, le don repose sur trois principes éthiques : bénévolat, anonymat et volontariat. Il est ouvert de 18 à 70 ans, sous conditions de santé.",
+    "source_series": 4
+  },
+  {
+    "question": "Votre médecin vous annonce que vous êtes atteint d'un diabète, reconnu comme affection longue durée (ALD). Quelle est la conséquence sur la prise en charge de vos soins liés à cette maladie ?",
+    "choices": [
+      "A. Les soins liés à l'ALD sont remboursés à 100 % par la Sécurité sociale",
+      "B. Aucun remboursement n'est possible pour les ALD",
+      "C. Le remboursement est limité à 30 % des frais",
+      "D. Seules les hospitalisations sont prises en charge"
+    ],
+    "correct": 0,
+    "explanation": "Les soins liés à l'ALD sont remboursés à 100 % par la Sécurité sociale. Le classement en affection de longue durée supprime le ticket modérateur : les soins liés à la maladie sont pris en charge à 100 % du tarif de la Sécurité sociale.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous voulez obtenir un extrait d'acte de naissance pour constituer un dossier administratif. À qui devez-vous vous adresser ?",
+    "choices": [
+      "A. À la préfecture de votre département de résidence",
+      "B. À la mairie de votre lieu de naissance (ou en ligne sur service-public.fr), gratuitement",
+      "C. Au tribunal judiciaire le plus proche, moyennant des frais",
+      "D. À votre consulat, uniquement si vous êtes né à l'étranger"
+    ],
+    "correct": 1,
+    "explanation": "À la mairie de votre lieu de naissance (ou en ligne sur service-public.fr), gratuitement. Les actes de naissance sont délivrés gratuitement par la mairie du lieu de naissance, sur place, par courrier ou via service-public.fr. Aucun organisme ne peut exiger de paiement pour ce document.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous touchez un salaire en France pour la première fois cette année. Quelle obligation administrative devez-vous respecter au printemps suivant ?",
+    "choices": [
+      "A. Aucune, votre employeur fait tout via le prélèvement à la source",
+      "B. Envoyer une lettre à la mairie pour signaler vos revenus",
+      "C. Effectuer votre déclaration de revenus, en ligne sur impots.gouv.fr, même si vos revenus sont faibles",
+      "D. Vous inscrire à la sécurité sociale uniquement"
+    ],
+    "correct": 2,
+    "explanation": "Effectuer votre déclaration de revenus, en ligne sur impots.gouv.fr, même si vos revenus sont faibles. Malgré le prélèvement à la source appliqué depuis 2019, la déclaration annuelle des revenus reste obligatoire. Elle permet de régulariser l'impôt et d'ouvrir droit à certaines aides sociales.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous venez de déménager dans une nouvelle commune et devez prévenir plusieurs organismes (CAF, impôts, Sécurité sociale). Quelle est la solution la plus simple ?",
+    "choices": [
+      "A. Écrire un courrier recommandé à chaque organisme",
+      "B. Utiliser la démarche en ligne de changement d'adresse sur les portails officiels (service-public.fr / mes-demarches.gouv.fr) qui notifie plusieurs organismes",
+      "C. Se rendre obligatoirement à la préfecture pour signaler le déménagement",
+      "D. Attendre que les organismes vous contactent à votre ancienne adresse"
+    ],
+    "correct": 1,
+    "explanation": "Utiliser la démarche en ligne de changement d'adresse sur les portails officiels (service-public.fr / mes-demarches.gouv.fr) qui notifie plusieurs organismes. Le téléservice officiel de changement d'adresse prévient en une seule démarche gratuite plusieurs organismes publics : impôts, CAF, Assurance maladie ou encore France Travail.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous avez perdu votre passeport pendant un voyage à l'étranger et devez rentrer en France. À qui devez-vous vous adresser sur place ?",
+    "choices": [
+      "A. À la police locale du pays, qui délivrera un nouveau passeport français",
+      "B. À la mairie française la plus proche de la frontière",
+      "C. Au consulat ou à l'ambassade de France, qui pourra délivrer un laissez-passer ou un passeport d'urgence",
+      "D. À une compagnie aérienne française, qui vous fournira un document de voyage"
+    ],
+    "correct": 2,
+    "explanation": "Au consulat ou à l'ambassade de France, qui pourra délivrer un laissez-passer ou un passeport d'urgence. À l'étranger, le consulat ou l'ambassade assure la protection des ressortissants français. En cas de perte du passeport, il délivre un laissez-passer pour rentrer en France ou un passeport d'urgence.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous résidez régulièrement en France depuis 5 ans et souhaitez devenir Français par naturalisation. Où déposez-vous votre demande ?",
+    "choices": [
+      "A. À la mairie de votre commune de résidence",
+      "B. Au tribunal judiciaire de votre département",
+      "C. Directement au ministère des Affaires étrangères",
+      "D. À la préfecture de votre département (via la plateforme en ligne NATALI / ANEF)"
+    ],
+    "correct": 3,
+    "explanation": "À la préfecture de votre département (via la plateforme en ligne NATALI / ANEF). La demande de naturalisation se dépose auprès de la préfecture du domicile, désormais via une procédure en ligne. Après instruction et entretien d'assimilation, la nationalité est accordée par décret.",
+    "source_series": 4
+  },
+  {
+    "question": "Votre livret de famille a été abîmé lors d'un dégât des eaux et n'est plus lisible. Comment obtenir un duplicata ?",
+    "choices": [
+      "A. En faire la demande auprès de la mairie, qui peut délivrer un duplicata gratuitement",
+      "B. Il faut payer un timbre fiscal de 100 euros à la préfecture",
+      "C. Le livret de famille ne peut jamais être remplacé une fois perdu ou abîmé",
+      "D. Il faut s'adresser à un notaire pour reconstituer l'acte"
+    ],
+    "correct": 0,
+    "explanation": "En faire la demande auprès de la mairie, qui peut délivrer un duplicata gratuitement. En cas de perte, de vol ou de détérioration, la mairie du domicile délivre gratuitement un second livret de famille, complété par les mairies détentrices des actes d'état civil.",
+    "source_series": 4
+  },
+  {
+    "question": "Votre enfant vient d'avoir 16 ans. Quelle démarche obligatoire devez-vous accomplir, et pourquoi est-elle importante ?",
+    "choices": [
+      "A. L'inscrire à France Travail dans les 3 mois pour qu'il puisse travailler",
+      "B. Le faire recenser à la mairie dans les 3 mois suivant ses 16 ans ; l'attestation est nécessaire pour passer le bac, le permis de conduire et être convoqué à la JDC",
+      "C. Demander un titre d'identité à la préfecture, obligatoire à partir de 16 ans",
+      "D. Aucune démarche n'est obligatoire avant l'âge de 18 ans"
+    ],
+    "correct": 1,
+    "explanation": "Le faire recenser à la mairie dans les 3 mois suivant ses 16 ans ; l'attestation est nécessaire pour passer le bac, le permis de conduire et être convoqué à la JDC. Obligatoire pour tous les jeunes Français, le recensement citoyen se fait en mairie ou en ligne dans les trois mois suivant le seizième anniversaire. Il conditionne la JDC et l'inscription électorale automatique.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous venez d'avoir 18 ans et souhaitez voter pour la première fois aux prochaines élections. Vous aviez effectué votre recensement citoyen à 16 ans. Que devez-vous faire pour pouvoir voter ?",
+    "choices": [
+      "A. Rien, l'inscription sur les listes électorales est automatique grâce au recensement effectué à 16 ans",
+      "B. Vous devez obligatoirement vous rendre en mairie pour vous inscrire sur les listes électorales",
+      "C. Vous devez demander une carte d'électeur au tribunal de votre commune",
+      "D. Vous devez attendre vos 21 ans pour pouvoir voter"
+    ],
+    "correct": 0,
+    "explanation": "Rien, l'inscription sur les listes électorales est automatique grâce au recensement effectué à 16 ans. Grâce au recensement citoyen effectué à 16 ans, l'INSEE inscrit automatiquement les jeunes majeurs sur les listes électorales. Une vérification sur service-public.fr reste conseillée avant chaque scrutin.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous serez en vacances à l'étranger le jour de l'élection présidentielle et souhaitez tout de même exprimer votre vote. Quelle démarche pouvez-vous effectuer ?",
+    "choices": [
+      "A. Envoyer votre bulletin de vote par courrier postal à votre mairie",
+      "B. Voter par internet depuis votre lieu de vacances",
+      "C. Établir une procuration en commissariat, gendarmerie, tribunal ou en ligne sur maprocuration.gouv.fr",
+      "D. Demander à un membre de votre famille de voter à votre place sans formalité"
+    ],
+    "correct": 2,
+    "explanation": "Établir une procuration en commissariat, gendarmerie, tribunal ou en ligne sur maprocuration.gouv.fr. Le vote par procuration permet de confier son vote à un électeur de confiance. La demande s'effectue sur maprocuration.gouv.fr, puis se valide devant la police, la gendarmerie ou au consulat.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous arrivez au bureau de vote le jour du scrutin mais vous avez oublié votre carte électorale à la maison. Vous n'avez avec vous que votre carte nationale d'identité. Que se passe-t-il ?",
+    "choices": [
+      "A. Vous ne pouvez pas voter sans votre carte électorale, elle est obligatoire",
+      "B. Vous pouvez voter car seule la pièce d'identité est obligatoire, la carte électorale est conseillée mais pas indispensable",
+      "C. Vous devez retourner chez vous chercher votre carte électorale avant de pouvoir voter",
+      "D. Vous devez payer une amende de 35 euros pour pouvoir voter sans votre carte"
+    ],
+    "correct": 1,
+    "explanation": "Vous pouvez voter car seule la pièce d'identité est obligatoire, la carte électorale est conseillée mais pas indispensable. Une pièce d'identité est exigée pour voter dans les communes de 1 000 habitants et plus. La carte électorale facilite les opérations, mais son oubli n'empêche pas de voter.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous avez 17 ans et vous recevez une convocation pour la Journée Défense et Citoyenneté (JDC). Vous souhaitez passer votre permis de conduire l'année prochaine. Que devez-vous savoir ?",
+    "choices": [
+      "A. La JDC est facultative et ne concerne que les jeunes hommes souhaitant s'engager dans l'armée",
+      "B. La JDC est obligatoire pour tous les jeunes Français de 16 à 25 ans et l'attestation est exigée pour passer le permis, le bac ou des concours administratifs",
+      "C. La JDC est réservée aux jeunes ayant déjà effectué leur service militaire",
+      "D. La JDC remplace le baccalauréat et permet d'obtenir directement le permis de conduire"
+    ],
+    "correct": 1,
+    "explanation": "La JDC est obligatoire pour tous les jeunes Français de 16 à 25 ans et l'attestation est exigée pour passer le permis, le bac ou des concours administratifs. Héritière de la suspension du service militaire décidée en 1997, la JDC concerne filles et garçons après le recensement. Son certificat est exigé avant 25 ans pour le permis, les examens et concours.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous avez déménagé il y a trois mois dans une nouvelle commune et une élection municipale approche. Vous êtes toujours inscrit sur les listes électorales de votre ancienne commune. Que devez-vous faire ?",
+    "choices": [
+      "A. Rien, vous pouvez continuer à voter dans votre ancienne commune toute votre vie",
+      "B. Actualiser votre adresse sur les listes électorales en mairie ou en ligne sur service-public.fr, au plus tard 6 semaines avant le scrutin",
+      "C. Attendre les prochaines élections présidentielles pour faire la démarche",
+      "D. Vous inscrire automatiquement par simple changement d'adresse à la poste"
+    ],
+    "correct": 1,
+    "explanation": "Actualiser votre adresse sur les listes électorales en mairie ou en ligne sur service-public.fr, au plus tard 6 semaines avant le scrutin. Un déménagement ne transfère pas automatiquement l'inscription électorale. La mise à jour se fait en mairie ou en ligne, au plus tard le sixième vendredi précédant le jour du scrutin.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous prenez le volant après avoir bu 2 verres de vin lors d'un repas entre amis. Quel est le taux d'alcool maximal autorisé dans le sang pour un conducteur confirmé en France ?",
+    "choices": [
+      "A. 0,2 g/L de sang",
+      "B. 0,5 g/L de sang",
+      "C. 0,8 g/L de sang",
+      "D. 1,0 g/L de sang"
+    ],
+    "correct": 1,
+    "explanation": "0,5 g/L de sang. Le Code de la route fixe la limite à 0,5 g d'alcool par litre de sang, abaissée à 0,2 g pour les permis probatoires. Au-delà de 0,8 g, l'infraction devient un délit.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous conduisez sur l'autoroute et votre téléphone portable sonne. Que prévoit la loi française concernant l'usage du téléphone au volant ?",
+    "choices": [
+      "A. C'est autorisé si on utilise une oreillette ou un kit main-libre dans l'oreille",
+      "B. C'est interdit, y compris avec une oreillette, sous peine de 135 euros d'amende et 3 points retirés",
+      "C. C'est autorisé uniquement sur autoroute",
+      "D. C'est autorisé pendant moins d'une minute"
+    ],
+    "correct": 1,
+    "explanation": "C'est interdit, y compris avec une oreillette, sous peine de 135 euros d'amende et 3 points retirés. L'interdiction vise le téléphone tenu en main comme les oreillettes et écouteurs, prohibés au volant depuis 2015. Seuls les dispositifs intégrés au véhicule, comme le Bluetooth, restent autorisés.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous venez d'avoir un accrochage sans blessé avec un autre véhicule sur un parking. Que devez-vous faire ?",
+    "choices": [
+      "A. Quitter les lieux rapidement si les dégâts semblent mineurs",
+      "B. Appeler obligatoirement la police pour qu'elle constate les dégâts",
+      "C. Remplir un constat amiable avec l'autre conducteur et le transmettre à votre assurance sous 5 jours",
+      "D. Régler directement en espèces avec l'autre conducteur sans formalité"
+    ],
+    "correct": 2,
+    "explanation": "Remplir un constat amiable avec l'autre conducteur et le transmettre à votre assurance sous 5 jours. Signé par les deux conducteurs, le constat amiable sert de preuve aux assureurs pour déterminer les responsabilités. Sa transmission à l'assurance doit intervenir dans les cinq jours ouvrés.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous êtes flashé à 70 km/h dans une zone limitée à 50 km/h en agglomération. Combien de points peuvent être retirés sur votre permis de conduire qui en compte 12 au total ?",
+    "choices": [
+      "A. Aucun point, seulement une amende",
+      "B. 1 point",
+      "C. 6 points",
+      "D. Le permis est immédiatement annulé"
+    ],
+    "correct": 1,
+    "explanation": "1 point. Un excès de vitesse inférieur à 20 km/h entraîne le retrait d'un point et une amende forfaitaire. Le point est restitué après six mois sans nouvelle infraction.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous venez d'obtenir votre permis de conduire pour la première fois. De combien de points dispose votre permis probatoire la première année ?",
+    "choices": [
+      "A. 12 points dès l'obtention du permis",
+      "B. 6 points, qui augmentent progressivement jusqu'à 12 points en 3 ans (ou 2 ans avec conduite accompagnée)",
+      "C. 10 points pendant 5 ans",
+      "D. 8 points sans possibilité d'évolution"
+    ],
+    "correct": 1,
+    "explanation": "6 points, qui augmentent progressivement jusqu'à 12 points en 3 ans (ou 2 ans avec conduite accompagnée). Instauré en 2004, le permis probatoire débute avec un capital de 6 points. Sans infraction, il atteint 12 points au bout de trois ans, ou de deux ans après une conduite accompagnée.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous achetez un canapé sur un site internet, mais à la réception, vous changez d'avis et souhaitez le retourner sans donner de raison. De combien de temps disposez-vous pour exercer votre droit de rétractation ?",
+    "choices": [
+      "A. 7 jours à compter de la réception du produit",
+      "B. 14 jours à compter de la réception du produit",
+      "C. 30 jours à compter de la commande",
+      "D. Aucun délai, la vente est définitive"
+    ],
+    "correct": 1,
+    "explanation": "14 jours à compter de la réception du produit. Issu d'une directive européenne et inscrit dans le Code de la consommation, le délai de rétractation de 14 jours vaut pour les achats à distance, sans justification ni pénalité.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous recevez de nombreux appels de démarchage téléphonique non sollicités qui vous dérangent quotidiennement. Quelle démarche gratuite pouvez-vous effectuer pour ne plus être démarché ?",
+    "choices": [
+      "A. Porter plainte au commissariat de police",
+      "B. Vous inscrire sur la liste Bloctel (bloctel.gouv.fr)",
+      "C. Changer obligatoirement de numéro de téléphone",
+      "D. Saisir directement le tribunal judiciaire"
+    ],
+    "correct": 1,
+    "explanation": "Vous inscrire sur la liste Bloctel (bloctel.gouv.fr). Créée par la loi Consommation de 2014, la liste d'opposition Bloctel est gratuite. Les professionnels qui démarchent un numéro inscrit s'exposent à des amendes administratives.",
+    "source_series": 4
+  },
+  {
+    "question": "La machine à laver neuve que vous avez achetée il y a 18 mois tombe en panne en raison d'un défaut. Quel recours pouvez-vous exercer au titre de la garantie légale de conformité ?",
+    "choices": [
+      "A. Aucun, la garantie ne dure qu'un an pour les produits neufs",
+      "B. Vous adresser uniquement au fabricant pour une réparation payante",
+      "C. Vous adresser au vendeur, car la garantie légale de conformité couvre 2 ans pour un produit neuf",
+      "D. Saisir directement la Banque de France"
+    ],
+    "correct": 2,
+    "explanation": "Vous adresser au vendeur, car la garantie légale de conformité couvre 2 ans pour un produit neuf. Prévue par le Code de la consommation, la garantie légale de conformité dure deux ans pour un bien neuf. Le vendeur doit réparer, remplacer ou rembourser le produit, sans frais pour l'acheteur.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous êtes endetté et vous n'arrivez plus à rembourser vos crédits ni à payer vos charges courantes. Quelle démarche gratuite pouvez-vous entreprendre ?",
+    "choices": [
+      "A. Déposer un dossier de surendettement auprès de la commission de surendettement de la Banque de France",
+      "B. Souscrire obligatoirement un nouveau crédit pour rembourser les anciens",
+      "C. Saisir directement le Conseil constitutionnel",
+      "D. Vous adresser à la DGCCRF"
+    ],
+    "correct": 0,
+    "explanation": "Déposer un dossier de surendettement auprès de la commission de surendettement de la Banque de France. Gratuite, la procédure de surendettement commence par un dossier déposé à la Banque de France. La commission peut rééchelonner les dettes, en suspendre l'exigibilité ou en effacer une partie.",
+    "source_series": 4
+  },
+  {
+    "question": "Un commerçant refuse de vous rembourser un produit non conforme et vous soupçonnez une pratique commerciale frauduleuse. À quelle administration pouvez-vous signaler ce litige, notamment via la plateforme SignalConso ?",
+    "choices": [
+      "A. La Banque de France",
+      "B. La CAF (Caisse d'allocations familiales)",
+      "C. La DGCCRF (Direction générale de la concurrence, de la consommation et de la répression des fraudes)",
+      "D. Le Défenseur des droits"
+    ],
+    "correct": 2,
+    "explanation": "La DGCCRF (Direction générale de la concurrence, de la consommation et de la répression des fraudes). Service du ministère de l'Économie, la DGCCRF veille à la protection des consommateurs. Un signalement sur SignalConso est transmis à l'entreprise et peut déclencher une enquête des agents de la répression des fraudes.",
+    "source_series": 4
+  },
+  {
+    "question": "Votre voisin effectue des travaux bruyants de perçage un dimanche matin à 8h. Que prévoit généralement la réglementation française concernant les travaux de bricolage le dimanche ?",
+    "choices": [
+      "A. Les travaux bruyants sont autorisés toute la journée le dimanche sans restriction",
+      "B. Les travaux bruyants des particuliers sont généralement autorisés uniquement le dimanche entre 10h et 12h selon les arrêtés municipaux",
+      "C. Les travaux bruyants sont totalement interdits le week-end y compris le samedi",
+      "D. Les travaux bruyants sont autorisés le dimanche uniquement après 14h"
+    ],
+    "correct": 1,
+    "explanation": "Les travaux bruyants des particuliers sont généralement autorisés uniquement le dimanche entre 10h et 12h selon les arrêtés municipaux. Les horaires des travaux bruyants des particuliers sont fixés par arrêté municipal ou préfectoral. Le dimanche, le créneau autorisé se limite le plus souvent à la fin de matinée.",
+    "source_series": 4
+  },
+  {
+    "question": "Le chien de votre voisin aboie sans cesse jour et nuit et le propriétaire refuse d'agir malgré vos demandes. Quelle est la démarche appropriée en France ?",
+    "choices": [
+      "A. Vous n'avez aucun recours car les aboiements d'un chien ne constituent jamais une nuisance",
+      "B. Vous devez capturer le chien vous-même et l'amener à la fourrière",
+      "C. Après tentative de dialogue, vous pouvez saisir la mairie ou déposer une plainte ; le propriétaire est responsable des nuisances sonores causées par son animal",
+      "D. Seul le maire peut intervenir et il doit obligatoirement euthanasier l'animal"
+    ],
+    "correct": 2,
+    "explanation": "Après tentative de dialogue, vous pouvez saisir la mairie ou déposer une plainte ; le propriétaire est responsable des nuisances sonores causées par son animal. Les aboiements répétés constituent un trouble anormal de voisinage dont le propriétaire de l'animal répond. Le maire peut user de ses pouvoirs de police pour faire cesser la nuisance.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous découvrez un dégât des eaux dans votre appartement provenant du logement du dessus. Quel est le délai légal pour déclarer le sinistre à votre assurance habitation ?",
+    "choices": [
+      "A. 30 jours après la découverte du sinistre",
+      "B. 15 jours après la découverte du sinistre",
+      "C. Aucun délai n'est imposé par la loi",
+      "D. 5 jours ouvrés après la découverte du sinistre"
+    ],
+    "correct": 3,
+    "explanation": "5 jours ouvrés après la découverte du sinistre. Le Code des assurances impose de déclarer la plupart des sinistres sous cinq jours ouvrés, et sous deux jours ouvrés en cas de vol. Un retard peut compromettre l'indemnisation.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous habitez en copropriété et l'assemblée générale annuelle doit voter d'importantes décisions. Que prévoit la loi française pour les copropriétaires ?",
+    "choices": [
+      "A. Seul le syndic a le droit de voter à l'assemblée générale",
+      "B. Chaque copropriétaire a le droit de voter et peut se faire représenter par un mandataire s'il ne peut pas assister à l'assemblée",
+      "C. Seuls les copropriétaires occupants peuvent voter, les bailleurs sont exclus",
+      "D. Le vote est réservé aux copropriétaires ayant plus de 50 % des tantièmes"
+    ],
+    "correct": 1,
+    "explanation": "Chaque copropriétaire a le droit de voter et peut se faire représenter par un mandataire s'il ne peut pas assister à l'assemblée. La loi du 10 juillet 1965 organise la copropriété : chaque copropriétaire vote à l'assemblée générale proportionnellement à ses tantièmes et peut donner pouvoir à un mandataire de son choix.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous voulez vous débarrasser d'un vieux canapé et d'un réfrigérateur usagé. Quelle est la solution légale et gratuite proposée par la plupart des communes françaises ?",
+    "choices": [
+      "A. Les déposer sur le trottoir n'importe quel jour de la semaine",
+      "B. Les abandonner dans un terrain vague à la sortie de la ville",
+      "C. Les apporter à la déchèterie ou demander une collecte d'encombrants sur rendez-vous auprès de la mairie, généralement gratuite",
+      "D. Les brûler dans son jardin pour s'en débarrasser rapidement"
+    ],
+    "correct": 2,
+    "explanation": "Les apporter à la déchèterie ou demander une collecte d'encombrants sur rendez-vous auprès de la mairie, généralement gratuite. Abandonner des encombrants sur la voie publique constitue un dépôt sauvage passible d'amende. Les communes mettent à disposition des déchèteries et organisent souvent des collectes gratuites sur rendez-vous.",
+    "source_series": 4
+  },
+  {
+    "question": "Votre voisin brûle des feuilles mortes et des branchages dans son jardin pour se débarrasser de ses déchets verts. Que dit la loi française à ce sujet ?",
+    "choices": [
+      "A. Le brûlage des déchets verts à l'air libre est autorisé toute l'année sans restriction",
+      "B. Le brûlage est autorisé uniquement le dimanche matin",
+      "C. Le brûlage à l'air libre des déchets verts par les particuliers est interdit en France ; il faut les composter ou les apporter en déchèterie",
+      "D. Le brûlage est autorisé à condition d'avoir prévenu les pompiers au préalable"
+    ],
+    "correct": 2,
+    "explanation": "Le brûlage à l'air libre des déchets verts par les particuliers est interdit en France ; il faut les composter ou les apporter en déchèterie. Le brûlage des déchets verts à l'air libre émet des polluants dangereux et expose à une amende. Compostage, paillage ou dépôt en déchèterie sont les solutions légales.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous emménagez dans un nouveau logement et souhaitez vous mettre en conformité avec la réglementation. Que prévoit la loi française concernant le détecteur de fumée (DAAF) ?",
+    "choices": [
+      "A. Il est facultatif sauf dans les immeubles de plus de 10 étages",
+      "B. Il est obligatoire depuis 2015 dans chaque logement (loi Morange) ; le propriétaire doit l'installer et l'occupant doit l'entretenir notamment la batterie",
+      "C. Il est obligatoire uniquement dans les maisons individuelles",
+      "D. Il est obligatoire mais uniquement à partir de 2025"
+    ],
+    "correct": 1,
+    "explanation": "Il est obligatoire depuis 2015 dans chaque logement (loi Morange) ; le propriétaire doit l'installer et l'occupant doit l'entretenir notamment la batterie. Depuis mars 2015, chaque logement doit être équipé d'au moins un détecteur de fumée. Son installation incombe au propriétaire, tandis que l'occupant assure l'entretien courant, comme le remplacement des piles.",
+    "source_series": 4
+  },
+  {
+    "question": "Une entreprise de vente en ligne conserve vos données personnelles alors que vous avez fermé votre compte depuis longtemps. Que pouvez-vous faire ?",
+    "choices": [
+      "A. Rien, l'entreprise est propriétaire de vos données une fois inscrites",
+      "B. Exercer votre droit à l'effacement (droit à l'oubli) prévu par le RGPD en demandant la suppression de vos données",
+      "C. Attendre 10 ans, la suppression est automatique",
+      "D. Porter plainte au commissariat pour vol"
+    ],
+    "correct": 1,
+    "explanation": "Exercer votre droit à l'effacement (droit à l'oubli) prévu par le RGPD en demandant la suppression de vos données. Applicable dans toute l'Union européenne depuis 2018, le RGPD consacre le droit à l'effacement. Sans réponse du responsable des données sous un mois, une plainte peut être adressée à la CNIL.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous êtes victime de cyberharcèlement : plusieurs personnes vous envoient des messages d'insultes et de menaces sur les réseaux sociaux depuis plusieurs semaines. Que pouvez-vous faire ?",
+    "choices": [
+      "A. Rien, ce n'est pas un délit puisque c'est sur internet",
+      "B. Seulement bloquer les comptes concernés, la police ne traite pas ces affaires",
+      "C. Porter plainte au commissariat ou en ligne ; le cyberharcèlement est un délit puni jusqu'à 2 ans de prison et 30 000 euros d'amende",
+      "D. Répondre par les mêmes insultes pour vous défendre"
+    ],
+    "correct": 2,
+    "explanation": "Porter plainte au commissariat ou en ligne ; le cyberharcèlement est un délit puni jusqu'à 2 ans de prison et 30 000 euros d'amende. Le Code pénal réprime le harcèlement en ligne, y compris les attaques de groupe appelées raids numériques. Conserver des captures d'écran des messages facilite la preuve devant la justice.",
+    "source_series": 4
+  },
+  {
+    "question": "Une entreprise utilise vos données personnelles sans votre accord et refuse de répondre à votre demande de suppression. Vers quelle autorité pouvez-vous vous tourner ?",
+    "choices": [
+      "A. Le Défenseur des droits uniquement",
+      "B. La CNIL (Commission nationale de l'informatique et des libertés), autorité indépendante que tout citoyen peut saisir gratuitement",
+      "C. Le Conseil constitutionnel",
+      "D. Le ministère de l'Intérieur"
+    ],
+    "correct": 1,
+    "explanation": "La CNIL (Commission nationale de l'informatique et des libertés), autorité indépendante que tout citoyen peut saisir gratuitement. Créée par la loi Informatique et libertés de 1978, la CNIL est une autorité administrative indépendante. Elle contrôle l'usage des données personnelles et peut sanctionner financièrement les organismes fautifs.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous voulez créer une association sportive avec des amis dans votre quartier. Quelle démarche devez-vous accomplir ?",
+    "choices": [
+      "A. Demander une autorisation payante au maire de votre commune",
+      "B. Obtenir l'accord du préfet après enquête de police",
+      "C. Être au moins 10 personnes et payer une taxe annuelle",
+      "D. Être au moins 2 personnes et déclarer l'association à la préfecture (gratuitement), en application de la loi 1901"
+    ],
+    "correct": 3,
+    "explanation": "Être au moins 2 personnes et déclarer l'association à la préfecture (gratuitement), en application de la loi 1901. La loi du 1er juillet 1901 garantit la liberté d'association : deux personnes suffisent, et la déclaration gratuite, en préfecture ou en ligne, donne à l'association la personnalité juridique.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous avez 20 ans et vous souhaitez faire un service civique pour vous engager auprès d'une association d'intérêt général. Que devez-vous savoir ?",
+    "choices": [
+      "A. Le service civique est réservé aux étudiants en université",
+      "B. Il s'adresse aux jeunes de 16 à 25 ans (jusqu'à 30 ans en situation de handicap), pour une mission de 6 à 12 mois indemnisée environ 600 euros par mois",
+      "C. Il s'agit d'un emploi à temps plein rémunéré au SMIC",
+      "D. Il faut être de nationalité française et avoir effectué la journée défense et citoyenneté pour postuler"
+    ],
+    "correct": 1,
+    "explanation": "Il s'adresse aux jeunes de 16 à 25 ans (jusqu'à 30 ans en situation de handicap), pour une mission de 6 à 12 mois indemnisée environ 600 euros par mois. Lancé en 2010, le service civique propose des missions d'intérêt général de 6 à 12 mois dans des associations ou des services publics. L'indemnité mensuelle est principalement financée par l'État.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous voulez vous engager bénévolement dans une association d'aide aux personnes âgées. Que devez-vous savoir sur le bénévolat ?",
+    "choices": [
+      "A. Le bénévole est rémunéré au SMIC horaire par l'association",
+      "B. Le bénévolat est interdit aux personnes ayant un emploi salarié",
+      "C. Le bénévole n'est pas rémunéré, mais il peut être remboursé de ses frais ; certains responsables associatifs ont droit à un congé d'engagement associatif",
+      "D. Il faut obligatoirement avoir plus de 25 ans pour être bénévole"
+    ],
+    "correct": 2,
+    "explanation": "Le bénévole n'est pas rémunéré, mais il peut être remboursé de ses frais ; certains responsables associatifs ont droit à un congé d'engagement associatif. Le bénévole donne son temps librement et sans rémunération, mais l'association peut rembourser ses frais réels. Le congé d'engagement associatif facilite l'activité des salariés exerçant des responsabilités bénévoles.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous êtes au chômage depuis plus de 2 ans, vous avez 32 ans, vous n'avez plus aucune indemnité et vivez seul sans enfant. Quelle aide pouvez-vous demander pour disposer d'un minimum de ressources ?",
+    "choices": [
+      "A. L'AAH auprès de la MDPH",
+      "B. Le RSA auprès de la CAF",
+      "C. La prime d'activité auprès de France Travail",
+      "D. L'APA auprès du conseil départemental"
+    ],
+    "correct": 1,
+    "explanation": "Le RSA auprès de la CAF. Le RSA a remplacé le RMI en 2009 et garantit un revenu minimum, en principe à partir de 25 ans. Versé par la CAF, il s'accompagne d'obligations d'insertion professionnelle ou sociale.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous travaillez à temps partiel et touchez un salaire mensuel de 900 euros. Quelle aide pouvez-vous solliciter auprès de la CAF pour compléter vos revenus modestes liés à votre activité professionnelle ?",
+    "choices": [
+      "A. Le RSA",
+      "B. L'AAH",
+      "C. La prime d'activité",
+      "D. Les allocations familiales"
+    ],
+    "correct": 2,
+    "explanation": "La prime d'activité. Depuis 2016, la prime d'activité complète les revenus modestes des travailleurs, salariés comme indépendants. La CAF la verse chaque mois, sur la base d'une déclaration trimestrielle des ressources.",
+    "source_series": 4
+  },
+  {
+    "question": "Votre fils est en situation de handicap et vous souhaitez faire une demande de carte mobilité inclusion, de reconnaissance de handicap et d'allocations spécifiques. À quel organisme devez-vous vous adresser comme guichet unique ?",
+    "choices": [
+      "A. La CAF de votre département",
+      "B. France Travail",
+      "C. La mairie de votre commune",
+      "D. La MDPH (Maison Départementale des Personnes Handicapées)"
+    ],
+    "correct": 3,
+    "explanation": "La MDPH (Maison Départementale des Personnes Handicapées). Instituée par la loi handicap du 11 février 2005, la MDPH constitue le guichet unique départemental pour les cartes, allocations, orientations et reconnaissances liées au handicap.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous êtes adulte en situation de handicap, sans emploi et sans ressources suffisantes. Quelle allocation pouvez-vous demander via la MDPH et qui sera versée par la CAF ?",
+    "choices": [
+      "A. Le RSA",
+      "B. L'AAH (Allocation aux Adultes Handicapés)",
+      "C. L'APA (Allocation Personnalisée d'Autonomie)",
+      "D. La prime d'activité"
+    ],
+    "correct": 1,
+    "explanation": "L'AAH (Allocation aux Adultes Handicapés). L'AAH garantit un revenu minimal aux adultes dont le handicap est reconnu par la MDPH. Depuis 2023, son calcul est déconjugalisé : les revenus du conjoint ne comptent plus.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous résidez en France et plusieurs banques refusent de vous ouvrir un compte bancaire. Que pouvez-vous faire pour faire valoir votre droit au compte ?",
+    "choices": [
+      "A. Saisir le tribunal judiciaire",
+      "B. Saisir la Banque de France qui désignera une banque",
+      "C. Saisir le Défenseur des droits uniquement",
+      "D. Renoncer car aucun recours n'est possible"
+    ],
+    "correct": 1,
+    "explanation": "Saisir la Banque de France qui désignera une banque. Le droit au compte est inscrit dans le Code monétaire et financier : sur demande, la Banque de France désigne une banque obligée d'ouvrir un compte avec les services bancaires de base.",
+    "source_series": 4
+  },
+  {
+    "question": "Vos parents âgés de 78 ans vivent à domicile et sont en perte d'autonomie. Ils ont besoin d'une aide financière pour payer une aide à domicile. Quelle allocation peuvent-ils demander et auprès de quel organisme ?",
+    "choices": [
+      "A. L'AAH auprès de la MDPH",
+      "B. Le RSA auprès de la CAF",
+      "C. L'APA auprès du conseil départemental",
+      "D. La prime d'activité auprès de France Travail"
+    ],
+    "correct": 2,
+    "explanation": "L'APA auprès du conseil départemental. L'APA aide les personnes de 60 ans et plus en perte d'autonomie, à domicile ou en établissement. Le conseil départemental l'attribue selon le degré de dépendance et les ressources.",
+    "source_series": 4
+  },
+  {
+    "question": "Vous gagnez le SMIC et vous venez d'avoir votre deuxième enfant. Quelle prestation familiale pouvez-vous percevoir automatiquement, versée par la CAF, sans condition d'emploi ?",
+    "choices": [
+      "A. Le RSA",
+      "B. La prime d'activité",
+      "C. L'AAH",
+      "D. Les allocations familiales"
+    ],
+    "correct": 3,
+    "explanation": "Les allocations familiales. Versées par la CAF à partir du deuxième enfant à charge, les allocations familiales ne dépendent pas de l'activité professionnelle. Depuis 2015, leur montant est modulé selon les revenus du foyer.",
+    "source_series": 4
+  }
+]
